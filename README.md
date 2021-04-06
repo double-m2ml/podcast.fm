@@ -3,7 +3,7 @@
 </div>
 
 # {podcast名}.fm
-{podcast名}.fmは偶然にも名前（first name）が同じ @navitacion と @asteriam_fp の2人の機械学習エンジニアによるポッドキャストです．
+{podcast名}.fmは偶然にも名前（first name）が同じ @navitacion と @asteriam_fp の2人の機械学習エンジニアがお届けするポッドキャストです．
 
 - 毎週気になる話題 - テクノロジー・ビジネス・キャリアなど，2人が興味のあるトピックについてお話しします．
 
@@ -17,7 +17,7 @@
 - 第1回（2021/xx/yy）: 
 
 # Others（質問・お便り・感想など）
-- メールアドレス: xxxxxx@gmail.com
-- Twitter: @double-m2ml
-    - ハッシュタグ: #double-m2ml
+- メールアドレス: double.m2ml@gmail.com
+- Twitter: @double_m2ml
+    - ハッシュタグ: #double_m2ml
 - googleフォーム: 

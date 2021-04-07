@@ -18,6 +18,8 @@
 - 第1回（2021/mm/dd）: 
 
 # Others（質問・お便り・感想など）
+質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．
+
 - メールアドレス: double.m2ml@gmail.com
 - Twitter: @double_m2ml
     - ハッシュタグ: #double_m2ml

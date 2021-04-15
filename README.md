@@ -2,8 +2,8 @@
 <img src="images/double-m2.png" title="cover image" width="300">
 </div>
 
-# {podcast名}.fm
-{podcast名}.fmは偶然にも名前（first name）が同じ @navitacion と @asteriam_fp の2人の機械学習エンジニアがお届けするポッドキャストです．
+# Double-M2.fm
+Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @asteriam_fp の2人の機械学習エンジニアがお届けするポッドキャストです．
 
 - 毎週気になる話題 - テクノロジー・ビジネス・キャリアなど，2人が興味のあるトピックについてお話しします．
 

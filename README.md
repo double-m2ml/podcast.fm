@@ -1,5 +1,5 @@
 <div align="center">
-<img src="images/double-m2.png" title="cover image" width="300">
+<img src="images/double-m2_logo.png" title="cover image" width="300">
 </div>
 
 # Double-M2.fm

@@ -2,7 +2,7 @@
 <img src="images/double-m2_logo.png" title="cover image" width="300">
 </div>
 
-# Double-M2.fm
+# [Double-M2.fm](https://anchor.fm/double-m2)
 Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @asteriam_fp の2人の機械学習エンジニアがお届けするポッドキャストです．
 
 - 毎週気になる話題 - テクノロジー・ビジネス・キャリアなど，2人が興味のあるトピックについてお話しします．

@@ -24,4 +24,4 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - メールアドレス: double.m2ml@gmail.com
 - Twitter: @double_m2ml
     - ハッシュタグ: #double_m2ml
-- googleフォーム: 
+- googleフォーム: https://forms.gle/Cf5TUC1ZW1ErVvZdA

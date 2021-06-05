@@ -16,6 +16,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 
 # Episode
 - 第1回（2021/06/01）: 自己紹介
+- 第1回（2021/06/07）: 転職話
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

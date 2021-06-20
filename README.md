@@ -17,11 +17,12 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 # Episode
 - 第1回（2021/06/01）: 自己紹介
 - 第2回（2021/06/07）: 転職話
+- 第3回（2021/06/20）: Kaggleの取り組みや馴れ初め
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．
 
 - メールアドレス: double.m2ml@gmail.com
 - Twitter: @double_m2ml
-    - ハッシュタグ: #double_m2ml
+    - ハッシュタグ: #double_m2fm
 - googleフォーム: https://forms.gle/Cf5TUC1ZW1ErVvZdA

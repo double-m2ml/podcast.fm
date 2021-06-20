@@ -1,6 +1,6 @@
 # Episode
-- 第2回（2021/06/05）: 転職話
-	- link: https://anchor.fm/double-m2/episodes/2-e12714u/a-a5pmuv6
+- 第2回（2021/06/07）: 転職話
+	- リンク: https://anchor.fm/double-m2/episodes/2-e12714u/a-a5pmuv6
 
 # Contents
 - お互いの転職話

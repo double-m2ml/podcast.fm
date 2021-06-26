@@ -65,6 +65,7 @@
 - **asteriam**
     - [ノートPCスタンド](https://amzn.to/3A2OTg7)
         - 姿勢矯正には重要！
+        - 結構しっかりしていて，重厚感もある
 - **navi**
     - KORGの[MIDIキーボード](https://amzn.to/3jde8Gj)
         - DTMに挑戦中

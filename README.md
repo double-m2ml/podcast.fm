@@ -18,6 +18,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第1回（2021/06/01）: [自己紹介](./episode/episode-001.md)
 - 第2回（2021/06/07）: [転職話](./episode/episode-002.md)
 - 第3回（2021/06/21）: [Kaggleの取り組みや馴れ初め](./episode/episode-003.md)
+- 第4回（2021/06/28）: [リモートワークでの作業グッズ](./episode/episode-004.md)
 
 
 # Others（質問・お便り・感想など）

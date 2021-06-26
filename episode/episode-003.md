@@ -1,6 +1,6 @@
 # Episode
 - 第3回（2021/06/21）: Kaggleの取り組みや馴れ初め
-    - リンク: https://anchor.fm/double-m2/episodes/3-Kaggle-e133kpi
+    - リンク: 
 
 # Contents
 - お互いのKaggleの取り組みやきっかけ

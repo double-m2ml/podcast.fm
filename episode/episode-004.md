@@ -1,6 +1,6 @@
 # Episode
 - 第4回（2021/06/28）: リモートワークでの作業グッズ
-    - リンク:
+    - リンク:　https://anchor.fm/double-m2/episodes/4-e13fli8
 
 # Contents
 - リモートワークでの作業グッズのオススメ

@@ -20,6 +20,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第3回（2021/06/21）: [Kaggleの取り組みや馴れ初め](./episode/episode-003.md)
 - 第4回（2021/06/28）: [リモートワークでの作業グッズ](./episode/episode-004.md)
 - 第5回（2021/07/05）: [第1回-気になる技術記事の紹介](./episode/episode-005.md)
+- 第6回（2021/07/19）: [オンボーディングトレーニングについて](./episode/episode-006.md)
 
 
 # Others（質問・お便り・感想など）

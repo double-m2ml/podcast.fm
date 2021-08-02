@@ -1,6 +1,6 @@
 # Episode
 - 第7回（2021/07/26）: 保険とか積立NISAとかの投資関連の話
-    - リンク:　
+    - リンク:　https://anchor.fm/double-m2/episodes/7-NISA-e14ui2a
 
 # Contents
 - 各々が活用している投資や保険について

@@ -23,6 +23,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第6回（2021/07/19）: [オンボーディングトレーニングについて](./episode/episode-006.md)
 - 第7回（2021/07/26）: [各々が活用している投資や保険について](./episode/episode-007.md)
 - 第8回（2021/08/02）: [お互いの好きな映画について](./episode/episode-008.md)
+- 第9回（2021/08/09）: [第1回-おすすめの書籍紹介](./episode/episode-009.md)
 
 
 # Others（質問・お便り・感想など）

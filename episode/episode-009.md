@@ -1,6 +1,6 @@
 # Episode
 - 第9回（2021/08/09）: 第1回-おすすめの書籍紹介
-    - リンク:　
+    - リンク:　https://anchor.fm/double-m2/episodes/9----e15iru1
 
 # Contents
 - 第1回-おすすめの書籍紹介

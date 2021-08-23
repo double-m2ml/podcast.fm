@@ -1,6 +1,6 @@
 # Episode
 - 第10回（2021/08/23）: キャリアとかの話
-    - リンク:　
+    - リンク:　https://anchor.fm/double-m2/episodes/10-e167uf1
 
 # Contents
 - キャリアとかの話・今後の展望・方向性

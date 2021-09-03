@@ -1,6 +1,6 @@
 # Episode
 - 第11回（2021/08/30）: 第2回-気になる技術記事の紹介
-    - リンク:　
+    - リンク:　https://anchor.fm/double-m2/episodes/11-2--e16jlii
 
 # Contents
 - 第2回-気になる技術記事の紹介

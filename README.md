@@ -32,6 +32,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第12回（2021/09/06）: [行動経済学についてのお話](./episode/episode-012.md)
 - 第13回（2021/09/13）: [MLエンジニアの講師経験](./episode/episode-013.md)
 - 第14回（2021/09/20）: [第1回-技術書紹介](./episode/episode-014.md)
+- 第15回（2021/09/27）: [サブスクリプション何使ってる？](./episode/episode-015.md)
 
 
 # Others（質問・お便り・感想など）

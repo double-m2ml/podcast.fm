@@ -1,12 +1,12 @@
 name: New Episode Issue generate
 on:
-#   schedule:
-#   - cron: '0 0 * * 1'  # At 09:00 on Monday(JST), https://crontab.guru/
+  schedule:
+  - cron: '0 0 * * 1'  # At 09:00 on Monday(JST), https://crontab.guru/
   workflow_dispatch:
 
 jobs:
   issue_generate:
-    name: Sunday Standup
+    name: Create Episode Standup
     runs-on: ubuntu-latest
     steps:
 

@@ -16,6 +16,8 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 
 - 記事
     - [Podcastによる配信のキッカケとその方法](https://note.com/asteriam/n/n66527811e0a0)
+- 参考
+    - [配信を行うための参考サイト](https://github.com/double-m2ml/podcast.fm/issues/2)
 
 # Episode
 - 第1回（2021/06/01）: [自己紹介](./episode/episode-001.md)

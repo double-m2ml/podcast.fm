@@ -1,7 +1,7 @@
 name: New Episode Issue generate
 on:
   schedule:
-  - cron: '0 0 * * 1'  # At 09:00 on Monday(JST), https://crontab.guru/
+  - cron: "15 6 * * 1"  # At 15:15 on Monday(JST), https://crontab.guru/
   workflow_dispatch:
 
 jobs:

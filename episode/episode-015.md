@@ -1,6 +1,6 @@
 # Episode
 - 第15回（2021/09/27）: サブスクリプション何使ってる？
-    - リンク:　
+    - リンク:　https://anchor.fm/double-m2/episodes/15-e17s6ih
 
 # Contents
 - お互いが使っている/気になっているサブスクリプションについて

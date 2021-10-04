@@ -1,6 +1,6 @@
 # Episode
 - 第16回（2021/10/04）: ML Test Scoreの紹介
-    - リンク:
+    - リンク: https://anchor.fm/double-m2/episodes/11-ML-Test-Score-e18922p
 
 # Contents
 - 既存の機械学習システムに対してML Test Scoreをつけて定量化した話

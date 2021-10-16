@@ -36,7 +36,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第14回（2021/09/20）: [第1回-技術書紹介](./episode/episode-014.md)
 - 第15回（2021/09/27）: [サブスクリプション何使ってる？](./episode/episode-015.md)
 - 第16回（2021/10/04）: [ML Test Scoreの紹介](./episode/episode-016.md)
-
+- 第17回（2021/10/18）: [Hype Cycle for AI 2021を語る](./episode/episode-017.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

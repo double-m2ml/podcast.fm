@@ -1,6 +1,6 @@
 # Episode
 - 第17回（2021/10/18）: Hype Cycle for AI 2021を語る
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/17-Hype-Cycle-for-AI-2021-e18u4u0
 
 # Contents
 - Gartner社が公開している2021年Hype Cycle for AIについて語り合いました

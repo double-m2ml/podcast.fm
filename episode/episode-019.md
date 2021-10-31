@@ -33,5 +33,5 @@
   - OKR自体がすべての会社に適切なものではない
   
 ## Reference
-- [OKR（オーケーアール）](https://www.amazon.co.jp/dp/B07B2R1ZDL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+- [OKR（オーケーアール）](https://www.amazon.co.jp/dp/B07B2R1ZDL)
 - [#41 『OKR』を読んでみて](https://note.com/nvillage24/n/n64fbe7bfce16)

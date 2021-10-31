@@ -38,6 +38,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第16回（2021/10/04）: [ML Test Scoreの紹介](./episode/episode-016.md)
 - 第17回（2021/10/18）: [Hype Cycle for AI 2021を語る](./episode/episode-017.md)
 - 第18回（2021/10/25）: [Personality Bias of Music Recommendation Algorithmsという論文の紹介](./episode/episode-018.md)
+- 第19回（2021/11/01）: [第2回-おすすめの書籍紹介](./episode/episode-018.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

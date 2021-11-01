@@ -28,7 +28,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第6回（2021/07/19）: [オンボーディングトレーニングについて](./episode/episode-006.md)
 - 第7回（2021/07/26）: [各々が活用している投資や保険について](./episode/episode-007.md)
 - 第8回（2021/08/02）: [お互いの好きな映画について](./episode/episode-008.md)
-- 第9回（2021/08/09）: [第1回-おすすめの書籍紹介](./episode/episode-009.md)
+- 第9回（2021/08/09）: [書籍紹介 - それはあくまで偶然です―運と迷信の統計学](./episode/episode-009.md)
 - 第10回（2021/08/23）: [キャリアとかの話](./episode/episode-010.md)
 - 第11回（2021/08/30）: [第2回-気になる技術記事の紹介](./episode/episode-011.md)
 - 第12回（2021/09/06）: [行動経済学についてのお話](./episode/episode-012.md)
@@ -38,6 +38,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第16回（2021/10/04）: [ML Test Scoreの紹介](./episode/episode-016.md)
 - 第17回（2021/10/18）: [Hype Cycle for AI 2021を語る](./episode/episode-017.md)
 - 第18回（2021/10/25）: [Personality Bias of Music Recommendation Algorithmsという論文の紹介](./episode/episode-018.md)
+- 第19回（2021/11/01）: [書籍紹介 - OKR（オーケーアール）](./episode/episode-019.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

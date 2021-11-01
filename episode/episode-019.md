@@ -1,6 +1,6 @@
 # Episode
 - 第19回（2021/11/01）:書籍紹介 - OKR（オーケーアール）
-  - リンク:　
+  - リンク:　https://anchor.fm/double-m2/episodes/19----OKR-e19igjr
 
 # Contents
 - 第2回-おすすめの書籍紹介

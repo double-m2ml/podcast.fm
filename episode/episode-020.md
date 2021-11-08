@@ -1,6 +1,6 @@
 # Episode
 - 第20回（2021/11/08）: 2021年におけるArtificial Intelligenceについてのお話
-  - リンク:　
+  - リンク:　https://anchor.fm/double-m2/episodes/20-2021Artificial-Intelligence-e19ssko
   
 # Contents
 - 2021年におけるArtificial Intelligenceについてのお話

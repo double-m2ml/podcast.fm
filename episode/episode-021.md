@@ -1,6 +1,6 @@
 # Episode
 - 第21回（2021/11/15）: 印象に残ったKaggleのコンペを紹介
-  - リンク:　
+  - リンク:　https://anchor.fm/double-m2/episodes/21-Kaggle-e1a8glm
   
 # Contents
 - 印象に残ったKaggleのコンペを紹介

@@ -42,6 +42,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第20回（2021/11/08）: [2021年におけるArtificial Intelligenceについてのお話](./episode/episode-020.md)
 - 第21回（2021/11/15）: [印象に残ったKaggleのコンペを紹介](./episode/episode-021.md)
 - 第22回（2021/11/29）: [スプレッドシートでマン・ホイットニーのU検定を実装した話](./episode/episode-022.md)
+- 第23回（2021/12/06）: [プライベート（業務外）でのアウトプットについて](./episode/episode-023.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

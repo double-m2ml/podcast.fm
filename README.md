@@ -15,7 +15,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
     新卒で通信事業者に入社し，デジタルマーケティング基盤の導入構築を担当するSEとして従事．データ分析で課題解決したい思いが高まり2年弱で退職し，機械学習を用いた異常検知ソリューションを提供するベンチャーに転職．製造業のクライアントに対するデータ分析や自社のMLプロダクト開発を担当した後，2021年6月にコネヒトに2回目の転職をし，現在に至る．
 
 - 記事
-    - [Podcastによる配信のキッカケとその方法](https://note.com/asteriam/n/n66527811e0a0)
+    - [Podcastによる配信のキッカケとその方法](https://masatakashiwagi.github.io/portfolio/post/podcast-broadcast-method/)
 - 参考
     - [配信を行うための参考サイト](https://github.com/double-m2ml/podcast.fm/issues/2)
 

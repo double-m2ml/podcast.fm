@@ -1,6 +1,6 @@
 # Episode
 - 第24回（2021/12/20）: 今年の1年の振り返り
-  - リンク: 
+  - リンク: https://anchor.fm/double-m2/episodes/24-1-e1btg2a
   
 # Contents
 - 今年1年どんな年でしたか？

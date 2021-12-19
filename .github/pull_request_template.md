@@ -26,7 +26,7 @@ assignees: ''
 ▶︎ 今回のトークテーマ
 <タイトル>
 
-ご質問，ご意見はTwitter: @double_m2ml / #double_m2fm でお待ちしております．
+ご質問，ご意見はTwitter → @double_m2ml / ハッシュタグ → #double_m2fm でお待ちしております．
 ```
 - [ ] 配信後，配信エピソードのページのリンクを更新する
 

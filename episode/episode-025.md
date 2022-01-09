@@ -5,7 +5,7 @@
 # Contents
 - 第3回-おすすめの書籍紹介
   - 今回はnaviさんの方から書籍を紹介して貰いました．
-  - 以前紹介したダン・アリエリーが書いた書籍になります．
+  - 以前に行動経済学について話した回でも登場したダン・アリエリーが書いた書籍になります．
 
 ## 内容
 - 今回紹介した本は「ずる」をテーマに人間の行動を分析した書籍
@@ -25,3 +25,4 @@
 ## Reference
 - [ずる 嘘とごまかしの行動経済学](https://www.amazon.co.jp/dp/B00B8PN4JU)
 - [#42 『ずる 嘘とごまかしの行動経済学』を読んでみて](https://note.com/nvillage24/n/nbdeafb9b7818)
+- [第12回 - 行動経済学についてのお話](https://github.com/double-m2ml/podcast.fm/blob/main/episode/episode-012.md)

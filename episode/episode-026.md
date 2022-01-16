@@ -1,6 +1,6 @@
 # Episode
 - 第26回（2022/01/17）: MLOpsの事例紹介 - Looking into 2022: Predictions for a New Year in MLOps
-  - リンク: 
+  - リンク: https://anchor.fm/double-m2/episodes/26-MLOps---Looking-into-2022-Predictions-for-a-New-Year-in-MLOps-e1d0olq
   
 # Contents
 - Looking into 2022: Predictions for a New Year in MLOpsの紹介

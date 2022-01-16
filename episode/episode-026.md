@@ -1,12 +1,12 @@
 # Episode
 - 第26回（2022/01/17）: MLOpsの事例紹介 - Looking into 2022: Predictions for a New Year in MLOps
   - リンク: https://anchor.fm/double-m2/episodes/26-MLOps---Looking-into-2022-Predictions-for-a-New-Year-in-MLOps-e1d0olq
-  
+
 # Contents
 - Looking into 2022: Predictions for a New Year in MLOpsの紹介
   - 今回はasteriamさんの方からMLOpsに関する記事を紹介して貰いました．
   - iguazio社によるMLOpsの2022年における展望をまとめた内容になっています．
-  
+
 ## 内容
 
 ### Looking into 2022: Predictions for a New Year in MLOps
@@ -20,14 +20,14 @@
   - モニタリング
 - **感想＆意見**
   - MLをサービスインするのは結構普通になってきているけど，それをどれだけビジネス価値に結びつけていけるか，それを継続して生むためにMLOpsを実践していくところにより焦点が当てられるようになる感じ．
-  
-2.**Feature Store Usage Will Become More Mainstream**
+
+2. **Feature Store Usage Will Become More Mainstream**
 - Feature Storeとは，特徴量を事前に計算しておき保存しておくためのもの．
 - モデルの再現性を担保する上でも、学習に使用した特徴量の保存と管理のためにFeature Storeが主に使用される流れ
 - 部署間の特徴量の一般化や個人情報の観点も考慮した管理
 - データドリフトした時の活用法として
 
-3.**Measuring the Business Impact of AI Projects Will Become the Norm**
+3. **Measuring the Business Impact of AI Projects Will Become the Norm**
 - AIプロジェクトにおけるビジネスインパクトの測定は常識になる
 - AIアプリケーションのROIは，モデルの性能だけで決まるのではなく，モデルの予測によるビジネス成果で決まる
   > 例えば、ある顧客が解約しそうだと特定した場合、どのようなインセンティブを与えて留まらせるべきか。機械が故障しそうなとき、今すぐ止めるべきか、それとも次のメンテナンス時期を待つべきか？適切なアクションを選択し、そのアクションによるビジネスインパクトとROIを測定することに、より焦点が置かれるでしょう。場合によっては、異なるアクションを並行して試し、どれが最高のビジネス価値をもたらすかを測定します（これをアクションのA/Bテストと呼ぶことができます）。
@@ -56,7 +56,6 @@
 - **感想＆意見**
   - コードはGithubで管理して，モデルや中間成果物はストレージに保存して管理したり，インフラの構成はTerraform（laC）とかパイプラインをAWSだとAWS SAM（サーバレスなAWSリソースを管理するツール）のようなもので管理したりするのが当たり前になっていくんだろうなという感想
   - コンポーネント管理して組み立てるスタイルがベストプラクティス？
-
 
 ## Reference
 - [Looking into 2022: Predictions for a New Year in MLOps](https://www.iguazio.com/blog/2022-predictions/)

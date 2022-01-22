@@ -1,7 +1,7 @@
 # Episode
 - 第20回（2021/11/08）: 2021年におけるArtificial Intelligenceについてのお話
-  - リンク:　https://anchor.fm/double-m2/episodes/20-2021Artificial-Intelligence-e19ssko
-  
+  - リンク: https://anchor.fm/double-m2/episodes/20-2021Artificial-Intelligence-e19ssko
+
 # Contents
 - 2021年におけるArtificial Intelligenceについてのお話
   - 「Artificial Intelligence vs Machine Learning vs Deep Learning- What's the difference in 2021」という記事を読んだ感想を話しました．

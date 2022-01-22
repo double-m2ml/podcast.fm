@@ -1,7 +1,7 @@
 # Episode
 - 第21回（2021/11/15）: 印象に残ったKaggleのコンペを紹介
-  - リンク:　https://anchor.fm/double-m2/episodes/21-Kaggle-e1a8glm
-  
+  - リンク: https://anchor.fm/double-m2/episodes/21-Kaggle-e1a8glm
+
 # Contents
 - 印象に残ったKaggleのコンペを紹介
   - asteriamとnaviがこれまで取り組んだKaggleのコンペについて、印象に残ったものをお互いに紹介しました
@@ -25,7 +25,7 @@
       - 物体検知などの特殊なフレームワークの使い方として、KaggleのNotebookがHowToとして参考になる
 
 - **navi**
-  - Predicting Molecular Properties 
+  - Predicting Molecular Properties
     - 分子構造におけるスカラーカップリングに関する予測
       - 初めてメダルを獲得したコンペ
       - 初めて真面目に取り組んだコンペ

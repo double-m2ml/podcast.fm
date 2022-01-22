@@ -1,6 +1,6 @@
 # Episode
 - 第4回（2021/06/28）: リモートワークでの作業グッズ
-    - リンク:　https://anchor.fm/double-m2/episodes/4-e13fli8
+    - リンク: https://anchor.fm/double-m2/episodes/4-e13fli8
 
 # Contents
 - リモートワークでの作業グッズのオススメ
@@ -13,7 +13,7 @@
     - 昇降式スタンディングデスク
     - 有名どころの[Flexispot](https://flexispot.jp/)
         - 組み立てが大変だった...
-    
+
 ## キーボード
 - **asteriam**
     - [Keychron K2](https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard)
@@ -48,7 +48,7 @@
 - **navi**
     - Shureの[ダイナミックマイク](https://amzn.to/3dgucDk)
         - 妻が使っているものを拝借
-    
+
 ## イス
 - **asteriam**
     - ニトリのオフィスチェア
@@ -60,7 +60,7 @@
         - 定価15~16万円くらいのものを2万円くらい！
     - 中古でもよければ [オフィスバスターズ](https://www.officebusters.com/)
       はオススメ！
-      
+
 ## 他には
 - **asteriam**
     - [ノートPCスタンド](https://amzn.to/3A2OTg7)
@@ -69,4 +69,4 @@
 - **navi**
     - KORGの[MIDIキーボード](https://amzn.to/3jde8Gj)
         - DTMに挑戦中
-    
+

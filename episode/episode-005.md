@@ -1,6 +1,6 @@
 # Episode
 - 第5回（2021/07/05）: 第1回-気になる技術記事の紹介
-    - リンク:　https://anchor.fm/double-m2/episodes/5-1--e13td5g
+    - リンク: https://anchor.fm/double-m2/episodes/5-1--e13td5g
 
 # Contents
 - 第1回-気になる技術記事の紹介

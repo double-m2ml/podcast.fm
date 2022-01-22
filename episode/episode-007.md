@@ -1,6 +1,6 @@
 # Episode
 - 第7回（2021/07/26）: 保険とか積立NISAとかの投資関連の話
-    - リンク:　https://anchor.fm/double-m2/episodes/7-NISA-e14ui2a
+    - リンク: https://anchor.fm/double-m2/episodes/7-NISA-e14ui2a
 
 # Contents
 - 各々が活用している投資や保険について
@@ -11,13 +11,13 @@
 		- 外国株式やインデックス型の商品が多め
 	- iDeCo
 		- 転職のときの移管手続きが若干面倒
-	
+
 - **navi**
 	- 同じくつみたてNISAをやっている
 	  	- 限度額ギリギリまで
 	- 企業型拠出年金も実施
 		- 転職によってiDeCo移管手続き中
-	
+
 - つみたてNISAのファンド選びについて
 	- **asteriam**
 		- いくつかの投資信託関連の本を読む

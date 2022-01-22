@@ -1,6 +1,6 @@
 # Episode
 - 第15回（2021/09/27）: サブスクリプション何使ってる？
-    - リンク:　https://anchor.fm/double-m2/episodes/15-e17s6ih
+    - リンク: https://anchor.fm/double-m2/episodes/15-e17s6ih
 
 # Contents
 - お互いが使っている/気になっているサブスクリプションについて
@@ -9,8 +9,8 @@
 - お互いが使っている/気になっているサブスクリプションについてお話しました
   - asteriam
     - 使っているサービス
-      - Abema 
-      - Amazon Prime 
+      - Abema
+      - Amazon Prime
       - [ディズニー＋](https://disneyplus.disney.co.jp/)
       - Apple Music
       - Nintendo Switch Online
@@ -19,7 +19,7 @@
       - Netflix
     - 気になっているサービス
       - 車
-        - [KINTO](https://kinto-jp.com/)   
+        - [KINTO](https://kinto-jp.com/)
   - navi
     - 使っているやつ
       - Amazon Prime

@@ -46,6 +46,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第24回（2021/12/20）: [今年の1年の振り返り](./episode/episode-024.md)
 - 第25回（2022/01/10）: [書籍紹介 - ずる 嘘とごまかしの行動経済学](./episode/episode-025.md)
 - 第26回（2022/01/17）: [MLOpsの事例紹介 - Looking into 2022: Predictions for a New Year in MLOps](./episode/episode-026.md)
+- 第27回（2022/01/24）: [第3回-気になる技術記事の紹介](./episode/episode-027.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

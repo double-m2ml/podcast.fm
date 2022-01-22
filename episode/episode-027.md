@@ -10,46 +10,72 @@
 ## 内容
 
 ### How These 8 Companies Implement MLOps: In-Depth Guide
-- ここで紹介されている8社が，どのようにしてプロダクション環境にモデルを管理してデプロイして改善しているのか，MLOpsに対して，どうアプローチしているのかを紹介
-- MLOpsを実践していくためのプラットフォームとして何を選択しているか
+- Neptune.ai
+- MLOpsへのアプローチ方法の紹介
+- プロダクション環境への適用方法
+- プラットフォームの選択肢
     - **Cloud-based/Serverless Implementation**
         - GCP, AWSなどのマネージドサービス
     - **End-to-End Implementation with a Managed Platform**
         - DataRobotなど，もしくは他のAutoMLツール
     - **In-House ML Platform Implementation**
         - 自社で開発している独自のプラットフォーム
-- MLOpsを成功させるためには，ワークフローに関連するすべてのコンポーネントのアクティビティを追跡するということ
+- トレーサビリティ
     - データ・モデル・機械学習パイプライン
         - バージョン管理・実験管理・ログを追跡できる仕組み・監視
-- **Holiday Extras: GCP**
-    - **Monitoring model performance in production**
-        - データのドリフトを監視するために，Google BigQueryを使って予測イベントを記録し，Data StudioやLookerなどのツールでパフォーマンスとドリフトを可視化できるようにしている．
-        - Grafana（kibanaのようなログの可視化ツール）を使用して，AI Platformからログに記録されたイベントをスコアリング指標・アラートとエラー・システム指標・エンドポイントにヒットしたリクエストの数などの観点から可視化している
-- **DoorDash:**
-    - フードデリバリーサービス
-        - 需要予測，飲食店とユーザーのマッチング，ダイナミックプライシングなど
-    - LightGBM, PyTorchなどのライブラリを使用している
-    - 学習ジョブのスケジュールと実行には，Apache Airflowを使用
-    - ファイル（モデルのネイティブフォーマットとモデル設定）とメタデータ（使用したトレーニングデータ、トレーニング時間、使用したハイパーパラメータ）はモデルストア（Amazon S3に格納）に保存
-    - 監査とデバッグのために，予測時間や予測に使用されたモデルのIDなどのメタデータとともにSnowflakeデータストアにログ記録
-    - 特徴量はFeature Storeで管理して使用する特徴量を標準化している（aggregate features, embeddings, など）
+- 事例紹介
+    - **Holiday Extras: GCP**
+    - データドリフトの監視
+    - Google BigQueryでのイベント記録
+    - パフォーマンスの可視化
+        - Data Studio・Looker
+    - Grafana（kibanaのようなログの可視化ツール）
+        - スコアリング指標・アラートとエラー・システム指標・エンドポイントにヒットしたリクエストの数
+    - **DoorDash:**
+        - フードデリバリーサービス
+            - 需要予測，飲食店とユーザーのマッチング，ダイナミックプライシングなど
+        - LightGBM・PyTorch
+        - 学習ジョブのスケジュール
+            - Apache Airflow
+        - ファイルとメタデータの保存
+            - 使用したトレーニングデータ
+            - トレーニング時間
+            - 使用したハイパーパラメータ
+            - Amazon S3
+        - 監査とデバッグ
+            - メタデータ
+                - 予測時間
+                - 予測に使用されたモデルのID
+            - ログ記録
+                - Snowflakeデータストア
+        - 特徴量
+            - Feature Store
+            - 特徴量の標準化（aggregate features, embeddings, など）
 - [MLOps - Practices](https://masatakashiwagi.github.io/mlops-practices/)
     - [ApplyingML](https://applyingml.com/)
-    - 上記サイトに触発されて，日本での各社の取り組みを整理したやつ欲しいなと思って，自分のメモという確認用に作ったやつを更新して行きたいなーという思いで始めました
+    - 日本での各社の取り組みを整理
+    - 自分用のメモ
 
 ### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
-- PetFinder2コンペでみんな使っていたVisionTransformerの進化版
-- VisionTransformerの適用範囲を拡大する（物体検出やセマセグ）ために以下2つの課題を解消するための新しいBackbone
-    - トークンのスケールが固定（画像を特定サイズのパッチに切り分けて入力していたが，大きさが固定になってしまう）
-    - 高解像度画像だと入力が長大（TransformerのAttensionが画像サイズの2乗になる）
-- 解決策として
-    - 小さいサイズのパッチから計算を開始し，徐々に隣接するパッチを結合していく階層的な構造（FPNやU-Net）
-    - ウィンドウをシフトし局所的なAttension計算を実現（計算効率の簡略化）
+- PetFinder2コンペ
+- 物体検出
+- セマンティックセグメンテーション
+- VisionTransformerの課題
+    - トークンのスケールが固定
+    - 高解像度画像だと入力が長大
+- 解決策
+    - 小さいサイズのパッチ
+    - 隣接するパッチを結合
+    - 階層的な構造（FPNやU-Net）
+    - ウィンドウのシフト
+    - 局所的なAttension計算
+    - 計算効率の簡略化
 - Patch Partition
     - 重複なしのパッチ分割（ViTと同じ）
     - FeatureはRGB値を連結し，4*4*3 = 48となる
 - Patch Marge
-    - 2*2の隣接したパッチの特徴を連結しダウンサンプリングする（プーリング層に近い考えかた）
+    - 2*2の隣接したパッチの特徴を連結しダウンサンプリング
+    - プーリング層に近い考え
 - Swin Transformer Block
     - MSA: Multi Self-Attention
     - LN: LayerNorm

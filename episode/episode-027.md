@@ -33,7 +33,7 @@
     - ファイル（モデルのネイティブフォーマットとモデル設定）とメタデータ（使用したトレーニングデータ、トレーニング時間、使用したハイパーパラメータ）はモデルストア（Amazon S3に格納）に保存
     - 監査とデバッグのために，予測時間や予測に使用されたモデルのIDなどのメタデータとともにSnowflakeデータストアにログ記録
     - 特徴量はFeature Storeで管理して使用する特徴量を標準化している（aggregate features, embeddings, など）
-- MLOps Practices
+- [MLOps - Practices](https://masatakashiwagi.github.io/mlops-practices/)
     - [ApplyingML](https://applyingml.com/)
     - 上記サイトに触発されて，日本での各社の取り組みを整理したやつ欲しいなと思って，自分のメモという確認用に作ったやつを更新して行きたいなーという思いで始めました
 
@@ -67,3 +67,5 @@
     - [物体検出モデルの進展 Part3 ~FPNとRetinaNet~](https://qiita.com/TaigaHasegawa/items/653abc81ac4ee1f0d7b8)
     - [論文紹介『Swin Transformer: Hierarchical Vision Transformer using Shifted Windows』](https://kyla.co.jp/blog/2021/05/10/%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%8Eswin-transformer-hierarchical-vision-transformer-using-shifted-windows%E3%80%8F/)
     - [Transformer(ViT)系より良いConvだけのネットワーク出たよ（画像認識向け）](https://qiita.com/TeamN/items/edee1b3803a1d77fc252)
+- [MLOps - Practices](https://masatakashiwagi.github.io/mlops-practices/)
+- [ApplyingML](https://applyingml.com/)

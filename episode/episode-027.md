@@ -1,9 +1,9 @@
 # Episode
-- 第27回（2022/01/24）: 第3回-気になる技術記事の紹介
+- 第27回（2022/01/24）: 第3回 - 気になる技術記事の紹介
   - リンク:
 
 # Contents
-- 第3回-気になる技術記事の紹介
+- 第3回 - 気になる技術記事の紹介
     - How These 8 Companies Implement MLOps: In-Depth Guide
     - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 

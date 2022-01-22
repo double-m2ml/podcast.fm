@@ -3,7 +3,7 @@
   - リンク: https://anchor.fm/double-m2/episodes/19----OKR-e19igjr
 
 # Contents
-- 第2回-おすすめの書籍紹介
+- 第2回 - おすすめの書籍紹介
   - 今回はnaviさんの方から書籍を紹介して貰いました．
 
 ## 書籍

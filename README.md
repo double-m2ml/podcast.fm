@@ -24,16 +24,16 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第2回（2021/06/07）: [転職話](./episode/episode-002.md)
 - 第3回（2021/06/21）: [Kaggleの取り組みや馴れ初め](./episode/episode-003.md)
 - 第4回（2021/06/28）: [リモートワークでの作業グッズ](./episode/episode-004.md)
-- 第5回（2021/07/05）: [第1回-気になる技術記事の紹介](./episode/episode-005.md)
+- 第5回（2021/07/05）: [第1回 - 気になる技術記事の紹介](./episode/episode-005.md)
 - 第6回（2021/07/19）: [オンボーディングトレーニングについて](./episode/episode-006.md)
 - 第7回（2021/07/26）: [各々が活用している投資や保険について](./episode/episode-007.md)
 - 第8回（2021/08/02）: [お互いの好きな映画について](./episode/episode-008.md)
 - 第9回（2021/08/09）: [書籍紹介 - それはあくまで偶然です―運と迷信の統計学](./episode/episode-009.md)
 - 第10回（2021/08/23）: [キャリアとかの話](./episode/episode-010.md)
-- 第11回（2021/08/30）: [第2回-気になる技術記事の紹介](./episode/episode-011.md)
+- 第11回（2021/08/30）: [第2回 - 気になる技術記事の紹介](./episode/episode-011.md)
 - 第12回（2021/09/06）: [行動経済学についてのお話](./episode/episode-012.md)
 - 第13回（2021/09/13）: [MLエンジニアの講師経験](./episode/episode-013.md)
-- 第14回（2021/09/20）: [第1回-技術書紹介](./episode/episode-014.md)
+- 第14回（2021/09/20）: [第1回 - 技術書紹介](./episode/episode-014.md)
 - 第15回（2021/09/27）: [サブスクリプション何使ってる？](./episode/episode-015.md)
 - 第16回（2021/10/04）: [ML Test Scoreの紹介](./episode/episode-016.md)
 - 第17回（2021/10/18）: [Hype Cycle for AI 2021を語る](./episode/episode-017.md)
@@ -46,7 +46,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第24回（2021/12/20）: [今年の1年の振り返り](./episode/episode-024.md)
 - 第25回（2022/01/10）: [書籍紹介 - ずる 嘘とごまかしの行動経済学](./episode/episode-025.md)
 - 第26回（2022/01/17）: [MLOpsの事例紹介 - Looking into 2022: Predictions for a New Year in MLOps](./episode/episode-026.md)
-- 第27回（2022/01/24）: [第3回-気になる技術記事の紹介](./episode/episode-027.md)
+- 第27回（2022/01/24）: [第3回 - 気になる技術記事の紹介](./episode/episode-027.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

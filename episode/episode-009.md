@@ -3,7 +3,7 @@
     - リンク: https://anchor.fm/double-m2/episodes/9----e15iru1
 
 # Contents
-- 第1回-おすすめの書籍紹介
+- 第1回 - おすすめの書籍紹介
 	- 今回はnaviさんの方から書籍を紹介して貰いました．
 
 ## 書籍

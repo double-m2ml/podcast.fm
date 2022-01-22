@@ -1,7 +1,7 @@
 # Episode
 - 第25回（2022/01/10）: 書籍紹介 - ずる 嘘とごまかしの行動経済学
   - リンク: https://anchor.fm/double-m2/episodes/25----e1cmsb4
-  
+
 # Contents
 - 第3回-おすすめの書籍紹介
   - 今回はnaviさんの方から書籍を紹介して貰いました．

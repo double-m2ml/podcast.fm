@@ -1,5 +1,5 @@
 # Episode
-- 第14回（2021/09/20）: 第1回-技術書紹介
+- 第14回（2021/09/20）: 第1回 - 技術書紹介
     - リンク: https://anchor.fm/double-m2/episodes/14-1---e17hb87
 
 # Contents

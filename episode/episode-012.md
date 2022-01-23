@@ -1,6 +1,6 @@
 # Episode
 - 第12回（2021/09/06）: 行動経済学についてのお話
-    - リンク:　https://anchor.fm/double-m2/episodes/12-e16v1jc
+    - リンク: https://anchor.fm/double-m2/episodes/12-e16v1jc
 
 # Contents
 - 行動経済学についてのお話

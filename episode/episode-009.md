@@ -1,9 +1,9 @@
 # Episode
 - 第9回（2021/08/09）: 書籍紹介 - それはあくまで偶然です―運と迷信の統計学
-    - リンク:　https://anchor.fm/double-m2/episodes/9----e15iru1
+    - リンク: https://anchor.fm/double-m2/episodes/9----e15iru1
 
 # Contents
-- 第1回-おすすめの書籍紹介
+- 第1回 - おすすめの書籍紹介
 	- 今回はnaviさんの方から書籍を紹介して貰いました．
 
 ## 書籍

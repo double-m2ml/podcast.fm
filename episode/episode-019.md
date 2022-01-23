@@ -1,9 +1,9 @@
 # Episode
 - 第19回（2021/11/01）:書籍紹介 - OKR（オーケーアール）
-  - リンク:　https://anchor.fm/double-m2/episodes/19----OKR-e19igjr
+  - リンク: https://anchor.fm/double-m2/episodes/19----OKR-e19igjr
 
 # Contents
-- 第2回-おすすめの書籍紹介
+- 第2回 - おすすめの書籍紹介
   - 今回はnaviさんの方から書籍を紹介して貰いました．
 
 ## 書籍
@@ -31,7 +31,7 @@
   - 上位レイヤでブレイクダウンしていくことで、個人のOKRがチーム、会社全体でどういうところに寄与しているのかが、わかりやすくなる
 - ミッションドリブンなテック企業やスタートアップなどで刺さりやすい
   - OKR自体がすべての会社に適切なものではない
-  
+
 ## Reference
 - [OKR（オーケーアール）](https://www.amazon.co.jp/dp/B07B2R1ZDL)
 - [#41 『OKR』を読んでみて](https://note.com/nvillage24/n/n64fbe7bfce16)

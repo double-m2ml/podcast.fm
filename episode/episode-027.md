@@ -83,5 +83,5 @@
 
 ### navi紹介記事
 - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
-- [物体検出モデルの進展 Part3 ~FPNとRetinaNet~](https://qiita.com/TaigaHasegawa/items/653abc81ac4ee1f0d7b8)
+- [物体検出モデルの進展 Part3 ~ FPNとRetinaNet ~](https://qiita.com/TaigaHasegawa/items/653abc81ac4ee1f0d7b8)
 - [論文紹介『Swin Transformer: Hierarchical Vision Transformer using Shifted Windows』](https://kyla.co.jp/blog/2021/05/10/%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%8Eswin-transformer-hierarchical-vision-transformer-using-shifted-windows%E3%80%8F/)

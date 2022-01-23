@@ -9,7 +9,8 @@
 
 ## 内容
 
-### How These 8 Companies Implement MLOps: In-Depth Guide
+### asteriam
+#### How These 8 Companies Implement MLOps: In-Depth Guide
 - Neptune.ai
 - MLOpsへのアプローチ方法の紹介
 - プロダクション環境への適用方法
@@ -56,7 +57,8 @@
     - 日本での各社の取り組みを整理
     - 自分用のメモ
 
-### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
+### navi
+#### Swin Transformer: Hierarchical Vision Transformer using Shifted Windows
 - PetFinder2コンペ
 - 物体検出
 - セマンティックセグメンテーション
@@ -70,28 +72,16 @@
     - ウィンドウのシフト
     - 局所的なAttension計算
     - 計算効率の簡略化
-- Patch Partition
-    - 重複なしのパッチ分割（ViTと同じ）
-    - FeatureはRGB値を連結し，4*4*3 = 48となる
-- Patch Marge
-    - 2*2の隣接したパッチの特徴を連結しダウンサンプリング
-    - プーリング層に近い考え
-- Swin Transformer Block
-    - MSA: Multi Self-Attention
-    - LN: LayerNorm
-    - W-MSA: シフトなしのウィンドウベースのSelf-Attension
-    - SW-MSA: シフトウィンドウに基づくSelf-Attension
-    - MLP: Multi Layer Perceptron
 - 性能
     - ImageNetでの結果はEfficientNetに近い性能
-- 余談
-    - Petfinderコンペの終盤に新しいBackboneが公開された -> その名も「ConvNeXt」
 
 ## Reference
+### asteriam紹介記事
 - [How These 8 Companies Implement MLOps: In-Depth Guide](https://neptune.ai/blog/how-these-8-companies-implement-mlops)
-- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
-    - [物体検出モデルの進展 Part3 ~FPNとRetinaNet~](https://qiita.com/TaigaHasegawa/items/653abc81ac4ee1f0d7b8)
-    - [論文紹介『Swin Transformer: Hierarchical Vision Transformer using Shifted Windows』](https://kyla.co.jp/blog/2021/05/10/%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%8Eswin-transformer-hierarchical-vision-transformer-using-shifted-windows%E3%80%8F/)
-    - [Transformer(ViT)系より良いConvだけのネットワーク出たよ（画像認識向け）](https://qiita.com/TeamN/items/edee1b3803a1d77fc252)
 - [MLOps - Practices](https://masatakashiwagi.github.io/mlops-practices/)
 - [ApplyingML](https://applyingml.com/)
+
+### navi紹介記事
+- [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://arxiv.org/pdf/2103.14030.pdf)
+- [物体検出モデルの進展 Part3 ~FPNとRetinaNet~](https://qiita.com/TaigaHasegawa/items/653abc81ac4ee1f0d7b8)
+- [論文紹介『Swin Transformer: Hierarchical Vision Transformer using Shifted Windows』](https://kyla.co.jp/blog/2021/05/10/%E8%AB%96%E6%96%87%E7%B4%B9%E4%BB%8B%E3%80%8Eswin-transformer-hierarchical-vision-transformer-using-shifted-windows%E3%80%8F/)

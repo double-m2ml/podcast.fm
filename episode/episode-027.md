@@ -1,6 +1,6 @@
 # Episode
 - 第27回（2022/01/24）: 第3回 - 気になる技術記事の紹介
-  - リンク:
+  - リンク: https://anchor.fm/double-m2/episodes/27-3---e1db61e
 
 # Contents
 - 第3回 - 気になる技術記事の紹介

@@ -1,6 +1,6 @@
 # Episode
 - 第28回（2022/01/31）: ゲームの話
-  - リンク: 
+  - リンク: https://anchor.fm/double-m2/episodes/28-e1dl86n
 
 # Contents
 - ゲームの話

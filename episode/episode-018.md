@@ -2,10 +2,10 @@
 - 第18回（2021/10/25）: Personality Bias of Music Recommendation Algorithmsという論文の紹介
     - リンク: https://anchor.fm/double-m2/episodes/18-Personality-Bias-of-Music-Recommendation-Algorithms-e197hub
 
-# Contents
+# Agenda
 - 音楽におけるPersonality特性の違いによるレコメンドアルゴリズムのバイアスに関する論文
 
-## 内容
+# Contents
 - 性別，年齢，国，消費行動などが異なるグループにおいて，レコメンドシステムのパフォーマンスが異なることが知られているが，本論文では，このユーザーのバイアスをユーザーのpersonality（性格）という観点から調査をしている
 - Twitterユーザーの音楽消費行動とPersonality特性のデータセットを作成して，OCEANモデルの観点から特性を調査している
 - 論文の結果から以下のことが言える
@@ -19,7 +19,6 @@
     - レコメンド指標としての多様性やセレンディピティの評価も取り入れることでバイアスを緩和できるのではないか
     - アルゴリズムの結果がよくないもの（興味がなさそうなもの）もリストに取り込む（ランダム性を持たせる）
 
-## Reference
-- [Personality Bias of Music Recommendation Algorithms
-](https://dbis.uibk.ac.at/sites/default/files/2021-05/manuscript.pdf)
+# Reference
+- [Personality Bias of Music Recommendation Algorithms](https://dbis.uibk.ac.at/sites/default/files/2021-05/manuscript.pdf)
 - [The Big Five Personality Traits](https://www.verywellmind.com/the-big-five-personality-dimensions-2795422)

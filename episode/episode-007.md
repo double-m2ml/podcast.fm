@@ -2,9 +2,10 @@
 - 第7回（2021/07/26）: 保険とか積立NISAとかの投資関連の話
     - リンク: https://anchor.fm/double-m2/episodes/7-NISA-e14ui2a
 
-# Contents
+# Agenda
 - 各々が活用している投資や保険について
 
+# Contents
 ## 投資
 - **asteriam**
 	- つみたてNISA
@@ -14,7 +15,7 @@
 
 - **navi**
 	- 同じくつみたてNISAをやっている
-	  	- 限度額ギリギリまで
+	    - 限度額ギリギリまで
 	- 企業型拠出年金も実施
 		- 転職によってiDeCo移管手続き中
 
@@ -41,11 +42,10 @@
 - いろんな保険
 	- ペット保険とか
 - 時代によって保険の見直しが必要
-  	- 医療の進歩などで入院ではなく通院が主流
+    - 医療の進歩などで入院ではなく通院が主流
 	- 入院前提の保証ではなく，通院でも保証が出るものが現代に合っている
 
 ## Reference
-
 - [つみたてNISA](https://www.fsa.go.jp/policy/nisa2/about/tsumitate/overview/index.html)
 - [iDeCo](https://www.ideco-koushiki.jp/)
 - [働けなくなった時の保険（就業不能保険）](https://www.lifenet-seimei.co.jp/product/disability/)

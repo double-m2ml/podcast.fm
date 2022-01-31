@@ -2,10 +2,11 @@
 - 第8回（2021/08/02）: お互いの好きな映画について
     - リンク: https://anchor.fm/double-m2/episodes/8-e15b6qo
 
-# Contents
+# Agenda
 - お互いの好きな映画について
 	- 人によって映画を選ぶ観点が違うのが面白かったです
 
+# Contents
 ## 好きなジャンル
 - **asteriam**
 	- アクション・歴史・SF系
@@ -51,5 +52,5 @@
 	- メッセージ
 	- パラサイト
 
-## Reference
+# Reference
 - [Filmarks](https://filmarks.com/): 映画レビューサイト

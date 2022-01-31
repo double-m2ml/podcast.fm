@@ -2,9 +2,10 @@
 - 第6回（2021/07/19）: オンボーディングトレーニングについて
     - リンク: https://anchor.fm/double-m2/episodes/6-e14kfa6
 
-# Contents
+# Agenda
 - オンボーディングトレーニングについて
 
+# Contents
 ## オンボーディング紹介
 - **asteriam**
 	- 2021/06/01 入社

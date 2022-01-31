@@ -2,6 +2,9 @@
 - 第1回（2021/06/01）: 自己紹介
 	- リンク: https://anchor.fm/double-m2/episodes/1-e11od5t/a-a5n663i
 
+# Agenda
+- お互いの自己紹介
+
 # Contents
 - お互いの自己紹介
     - 大学

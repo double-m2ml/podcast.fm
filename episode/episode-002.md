@@ -2,7 +2,7 @@
 - 第2回（2021/06/07）: 転職話
 	- リンク: https://anchor.fm/double-m2/episodes/2-e12714u/a-a5pmuv6
 
-# Contents
+# Agenda
 - お互いの転職話
     - 直近の転職話について
  	- 未経験からAI業界に行ったコツ？的なものはあるのか
@@ -10,6 +10,7 @@
  	- 転職をした時に使ったサービスやツール
  	- 技術以外で大事だと思うのは？
 
+# Contents
 ## 職歴概要
 - **asteriam**
     - 新卒時代:
@@ -77,10 +78,12 @@
 - **navi**
     - 同じくカルチャーフィット
 	- データ的に自分が興味があるもの（ドメイン・データ形式など）
+
 # Reference
 - naviの転職記録
     - https://note.com/nvillage24/n/n08e804047e63
-### 転職サービス
+
+## 転職サービス
 - LAPLAS
     - https://lapras.com/
 - Wantedly

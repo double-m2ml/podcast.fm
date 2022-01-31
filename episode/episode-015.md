@@ -2,36 +2,35 @@
 - 第15回（2021/09/27）: サブスクリプション何使ってる？
     - リンク: https://anchor.fm/double-m2/episodes/15-e17s6ih
 
-# Contents
+# Agenda
 - お互いが使っている/気になっているサブスクリプションについて
 
-## 内容
-- お互いが使っている/気になっているサブスクリプションについてお話しました
-  - asteriam
+# Contents
+- asteriam
     - 使っているサービス
-      - Abema
-      - Amazon Prime
-      - [ディズニー＋](https://disneyplus.disney.co.jp/)
-      - Apple Music
-      - Nintendo Switch Online
+        - Abema
+        - Amazon Prime
+        - [ディズニー＋](https://disneyplus.disney.co.jp/)
+        - Apple Music
+        - Nintendo Switch Online
     - 過去登録していたサービス
-      - Hulu
-      - Netflix
+        - Hulu
+        - Netflix
     - 気になっているサービス
-      - 車
-        - [KINTO](https://kinto-jp.com/)
-  - navi
+        - 車
+            - [KINTO](https://kinto-jp.com/)
+- navi
     - 使っているやつ
-      - Amazon Prime
-      - 歯ブラシ
-        - [GALLEIDO](https://mtmen.jp/shopping/lp.php?p=gdm_01)
-      - ウォーターサーバー
-        - [コスモウォーター](https://www.cosmowater.com/)
-      - Nintendo Switch Online
+        - Amazon Prime
+        - 歯ブラシ
+            - [GALLEIDO](https://mtmen.jp/shopping/lp.php?p=gdm_01)
+        - ウォーターサーバー
+            - [コスモウォーター](https://www.cosmowater.com/)
+        - Nintendo Switch Online
     - 過去登録していたサービス
-      - Netflix
+        - Netflix
     - 気になっているサービス
-      - アート
-        - [CASIE](https://casie.jp/)
-      - 住居
-        - [ADDress](https://address.love/)
+        - アート
+            - [CASIE](https://casie.jp/)
+        - 住居
+            - [ADDress](https://address.love/)

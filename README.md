@@ -48,6 +48,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第26回（2022/01/17）: [MLOpsの事例紹介 - Looking into 2022: Predictions for a New Year in MLOps](./episode/episode-026.md)
 - 第27回（2022/01/24）: [第3回 - 気になる技術記事の紹介](./episode/episode-027.md)
 - 第28回（2022/01/31）: [ゲームの話](./episode/episode-028.md)
+- 第29回（2022/02/07）: [Data-Centric AIの紹介](./episode/episode-029.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

@@ -1,6 +1,6 @@
 # Episode
 - 第29回（2022/02/07）: Data-Centric AIの紹介
-    - リンク:
+    - リンク: https://anchor.fm/double-m2/episodes/29-Data-Centric-AI-e1e0cqr
 
 # Agenda
 - Data-Centric AIの紹介

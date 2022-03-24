@@ -1,5 +1,5 @@
 # Episode
-- 第18回（2021/10/25）: Personality Bias of Music Recommendation Algorithmsという論文の紹介
+- 第18回（2021/10/25）: 論文紹介 - Personality Bias of Music Recommendation Algorithms
     - リンク: https://anchor.fm/double-m2/episodes/18-Personality-Bias-of-Music-Recommendation-Algorithms-e197hub
 
 # Agenda

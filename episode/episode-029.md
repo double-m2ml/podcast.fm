@@ -1,5 +1,5 @@
 # Episode
-- 第29回（2022/02/07）: Data-Centric AIの紹介
+- 第29回（2022/02/07）: データの品質を高める考え方の「Data-Centric AI」を紹介
     - リンク: https://anchor.fm/double-m2/episodes/29-Data-Centric-AI-e1e0cqr
 
 # Agenda

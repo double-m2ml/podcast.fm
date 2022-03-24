@@ -1,5 +1,5 @@
 # Episode
-- 第1回（2021/06/01）: 自己紹介
+- 第1回（2021/06/01）: お互いの自己紹介と今までの経歴について
 	- リンク: https://anchor.fm/double-m2/episodes/1-e11od5t/a-a5n663i
 
 # Agenda

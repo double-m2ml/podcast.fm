@@ -1,5 +1,5 @@
 # Episode
-- 第12回（2021/09/06）: 行動経済学についてのお話
+- 第12回（2021/09/06）: 日常の中に潜んでいる行動経済学の紹介
     - リンク: https://anchor.fm/double-m2/episodes/12-e16v1jc
 
 # Agenda

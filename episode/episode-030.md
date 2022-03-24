@@ -1,5 +1,5 @@
 # Episode
-- 第30回（2022/02/14）: ゲーム×AIの話
+- 第30回（2022/02/14）: 人工生命やゲームを題材としたAIの技術検証
     - リンク: https://anchor.fm/double-m2/episodes/30-AI-e1eau22
 
 # Agenda

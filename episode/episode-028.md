@@ -1,5 +1,5 @@
 # Episode
-- 第28回（2022/01/31）: ゲームの話
+- 第28回（2022/01/31）: 発売予定のNintendo Switchのゲーム話で盛り上がる
   - リンク: https://anchor.fm/double-m2/episodes/28-e1dl86n
 
 # Agenda

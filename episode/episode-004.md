@@ -1,5 +1,5 @@
 # Episode
-- 第4回（2021/06/28）: リモートワークでの作業グッズ
+- 第4回（2021/06/28）: リモートワークで使っている作業グッズ
     - リンク: https://anchor.fm/double-m2/episodes/4-e13fli8
 
 # Agenda

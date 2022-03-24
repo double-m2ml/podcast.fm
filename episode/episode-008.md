@@ -1,5 +1,5 @@
 # Episode
-- 第8回（2021/08/02）: お互いの好きな映画について
+- 第8回（2021/08/02）: 今まで観た映画やお互いの好きな映画について
     - リンク: https://anchor.fm/double-m2/episodes/8-e15b6qo
 
 # Agenda

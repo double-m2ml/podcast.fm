@@ -1,5 +1,5 @@
 # Episode
-- 第13回（2021/09/13）: MLエンジニアの講師経験
+- 第13回（2021/09/13）: 今まで経験してきたセミナーなどでの講師経験について
     - リンク: https://anchor.fm/double-m2/episodes/13-ML-e1783gu
 
 # Agenda

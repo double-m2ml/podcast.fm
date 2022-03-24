@@ -1,5 +1,5 @@
 # Episode
-- 第2回（2021/06/07）: 転職話
+- 第2回（2021/06/07）: 今までのどのようにして転職してきたか
 	- リンク: https://anchor.fm/double-m2/episodes/2-e12714u/a-a5pmuv6
 
 # Agenda

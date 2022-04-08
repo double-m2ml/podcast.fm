@@ -50,6 +50,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第28回（2022/01/31）: [発売予定のNintendo Switchのゲーム話で盛り上がる](./episode/episode-028.md)
 - 第29回（2022/02/07）: [データの品質を高める考え方の「Data-Centric AI」を紹介](./episode/episode-029.md)
 - 第30回（2022/02/14）: [人工生命やゲームを題材としたAIの技術検証](./episode/episode-030.md)
+- 第31回（2022/04/11）: [初めての子育てで育休を2ヶ月取得してみて](./episode/episode-031.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

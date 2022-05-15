@@ -53,6 +53,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第31回（2022/04/11）: [初めての子育てで育休を2ヶ月取得してみて](./episode/episode-031.md)
 - 第32回（2022/04/18）: [MLモニタリングで考えるべきメトリクスとドリフトの紹介](./episode/episode-032.md)
 - 第33回（2022/04/25）: [個人開発を最近何かしていますか？](./episode/episode-033.md)
+- 第34回（2022/05/16）: [Model Fairnessについて](./episode/episode-034.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

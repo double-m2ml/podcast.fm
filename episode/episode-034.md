@@ -1,6 +1,6 @@
 # Episode
 - 第34回（2022/05/16）: Model Fairnessについて
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/34-Model-Fairness-e1iit9v
 
 # Agenda
 - Model Fairness（モデルの公平性）について2人で議論しました

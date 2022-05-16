@@ -1,5 +1,5 @@
 # Episode
-- 第34回（2022/05/16）: Model Fairnessについて
+- 第34回（2022/05/16）: AIの公平性の課題である「Model Fairness」について考える
     - リンク: https://anchor.fm/double-m2/episodes/34-Model-Fairness-e1iit9v
 
 # Agenda

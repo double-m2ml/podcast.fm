@@ -1,6 +1,6 @@
 # Episode
 - 第36回（2022/06/06）: Podcast開始から1年経ったので振り返りしてみた
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/36-Podcast1-e1jgted
 
 # Agenda
 - 6/1でPodcastを開始して1年経ったので、Podcastやってみていろいろと振り返ってみました

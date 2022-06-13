@@ -3,7 +3,7 @@
     - リンク: https://anchor.fm/double-m2/episodes/36-Podcast1-e1jgted
 
 # Agenda
-- 6/1でPodcastを開始して1年経ったので、Podcastやってみていろいろと振り返ってみました
+- 2022/06/01でPodcastを開始して1年経ったので、Podcastやってみていろいろと振り返ってみました
 
 # Contents
 ## やってみて良かったこと

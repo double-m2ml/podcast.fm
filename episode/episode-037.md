@@ -1,6 +1,6 @@
 # Episode
 - 第37回（2022/06/20）: ホットトピックな「NFT」ってどういうものなの？
-    - リンク:
+    - リンク: https://anchor.fm/double-m2/episodes/37-NFT-e1k526g
 
 # Agenda
 - 最近ホットで話題のNFTとはどういうものなのか，naviさんから紹介して貰いました

@@ -56,6 +56,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第34回（2022/05/16）: [AIの公平性の課題である「Model Fairness」について考える](./episode/episode-034.md)
 - 第35回（2022/05/23）: [チーム開発など普段の開発どのように進めてますか？](./episode/episode-035.md)
 - 第36回（2022/06/06）: [Podcast開始から1年経ったので振り返りしてみた](./episode/episode-036.md)
+- 第37回（2022/06/20）: [ホットトピックな「NFT」ってどういうものなの？](./episode/episode-037.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

@@ -1,6 +1,6 @@
 # Episode
 - 第37回（2022/06/20）: ホットトピックな「NFT」ってどうゆうものなの？
-    - リンク: 
+    - リンク:
 
 # Agenda
 - 最近ホットで話題のNFTとはどうゆうものなのか，naviさんから紹介して貰いました
@@ -41,4 +41,3 @@
 
 # Reference
 - [NFTの教科書](https://www.amazon.co.jp/dp/B09HGX65C1)
-- [詳解ビットコイン](https://www.oreilly.co.jp/books/9784873119083/)

@@ -1,6 +1,6 @@
 # Episode
 - 第38回（2022/06/27）: リーダーだけに任せない！「フォロワーシップ」という考え方
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/38-e1kermk
 
 # Agenda
 - 「フォロワーシップ」に関してasteriamさんから紹介して貰いました

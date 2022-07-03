@@ -1,6 +1,6 @@
 # Episode
 - 第39回（2022/07/04）: Design Docsって知ってますか？
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/39-Design-Docs-e1kojcb
 
 # Agenda
 - 何かを始める前に必ず書くべき「Design Docs」を紹介しました！

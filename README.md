@@ -58,7 +58,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第36回（2022/06/06）: [Podcast開始から1年経ったので振り返りしてみた](./episode/episode-036.md)
 - 第37回（2022/06/20）: [ホットトピックな「NFT」ってどういうものなの？](./episode/episode-037.md)
 - 第38回（2022/06/27）: [リーダーだけに任せない！「フォロワーシップ」という考え方](./episode/episode-038.md)
-- 第38回（2022/07/04）: [Design Docsって知ってますか？](./episode/episode-039.md)
+- 第39回（2022/07/04）: [Design Docsって知ってますか？](./episode/episode-039.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

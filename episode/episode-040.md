@@ -9,9 +9,7 @@
 # Contents
 - 海外記事『Trustworthy AI is Built on Trustworthy Data』の紹介
     - MLをビジネスに適用して成功するためには，Trustworthyなデータが必要不可欠である
-        - データの可用性
-        - 情報をいつでも使える状態を保持すること
-        - 4つの章でまとめられている
+    - Trustworthyなデータに関して4つの章でまとめられている
 
 ## 1. **What is data quality?**
 - データの品質を測るための5つの要素
@@ -42,7 +40,7 @@
 ## 3. **How to ensure the gaps do not arise further?**
 - Sensitize consumers and producers of your data to known issues:
     - データはアナリストやサイエンティスト以外も扱うことがある。データの品質はモデルに影響を及ぼすため再学習の実行を検討することに繋がる。
-- Collaboration is key
+- Collaboration is key:
     - データの内容や生成に関する情報（属性やスキーマ、データ型など）を共有しドキュメント化する
     - データを作る側と使う側は異なることが多く、作る側の情報はあまり共有されていない
         - データの生成や性質に何かしらの前提条件がある場合、それを知らないまま分析をしてしまうと、アウトプットの質が低下してしまう

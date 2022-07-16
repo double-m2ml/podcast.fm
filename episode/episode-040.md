@@ -1,6 +1,6 @@
 # Episode
 - 第40回（2022/07/18）: 記事紹介 - Trustworthy AI is Built on Trustworthy Data
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/--Trustworthy-AI-is-Built-on-Trustworthy-Data-e1l9r40
 
 # Agenda
 - データの品質に関係する記事『Trustworthy AI is Built on Trustworthy Data』の紹介と品質に対する取り組みについて2人で議論しました

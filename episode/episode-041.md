@@ -1,6 +1,6 @@
 # Episode
 - 第41回（2022/07/25）: 転職して1年経ってどうですか？
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/41-1-e1lk275
 
 # Agenda
 - お互い転職して1年経ったのでその感想戦

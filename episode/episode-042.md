@@ -1,6 +1,6 @@
 # Episode
 - 第42回（2022/08/01）: MLエンジニアのキャリアについて
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/42-ML-e1lsmf8
 
 # Agenda
 - MLエンジニアのキャリアについて

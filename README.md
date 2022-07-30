@@ -61,6 +61,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第39回（2022/07/04）: [Design Docsって知ってますか？](./episode/episode-039.md)
 - 第40回（2022/07/18）: [記事紹介 - Trustworthy AI is Built on Trustworthy Data](./episode/episode-040.md)
 - 第41回（2022/07/25）: [転職して1年経ってどうですか？](./episode/episode-041.md)
+- 第42回（2022/08/01）: [MLエンジニアのキャリアについて](./episode/episode-042.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

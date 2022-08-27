@@ -63,6 +63,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第41回（2022/07/25）: [転職して1年経ってどうですか？](./episode/episode-041.md)
 - 第42回（2022/08/01）: [MLエンジニアのキャリアについて](./episode/episode-042.md)
 - 第43回（2022/08/15）: [チームビルディングアクティビティでより良いコミュニケーションを！](./episode/episode-043.md)
+- 第44回（2022/08/29）: [Notionってどのように使ってますか？](./episode/episode-044.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

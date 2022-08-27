@@ -1,6 +1,6 @@
 # Episode
 - 第44回（2022/08/29）: Notionってどのように使ってますか？
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/44-Notion-e1n1be0
 
 # Agenda
 - オールインワンアプリと名高いNotionについてそれぞれがどのように使っているかを紹介しました

@@ -1,6 +1,6 @@
 # Episode
 - 第45回（2022/09/12）: 書籍紹介 - エネルギーをめぐる旅 文明の歴史と私たちの未来
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/45----e1nkpl0
 
 # Agenda
 - 第4回 - おすすめの書籍紹介

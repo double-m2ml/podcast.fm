@@ -1,6 +1,6 @@
 # Episode
 - 第46回（2022/09/26）: 今話題のStable Diffusionについて
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/46-Stable-Diffusion-e1oan49
 
 # Agenda
 - Stable Diffusionの話題性

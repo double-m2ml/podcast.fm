@@ -66,7 +66,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第44回（2022/08/29）: [Notionってどのように使ってますか？](./episode/episode-044.md)
 - 第45回（2022/09/12）: [書籍紹介 - エネルギーをめぐる旅 文明の歴史と私たちの未来](./episode/episode-045.md)
 - 第46回（2022/09/26）: [今話題のStable Diffusionについて](./episode/episode-046.md)
-- 第47回（2022/10/03）: [夏休みの20日間チャレンジの取り組み&オススメ記事紹介](./episode/episode-047.md)
+- 第47回（2022/10/03）: [8月末までのテック備忘録日記](./episode/episode-047.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

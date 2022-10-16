@@ -25,8 +25,6 @@
             - 計測の結果に応じてどのようなアクションを起こすか
             - アクションを誰が, いつ決定するのか
 
-
-
 # Reference
 - [JAWS DAYS 2022](https://jawsdays2022.jaws-ug.jp/)
 - [JAWS DAYS 登壇資料](https://speakerdeck.com/masatakashiwagi/jaws-days-2022-awsnomanezidosabisudeshi-xian-suruniariarutaimunajian-suo-ji-pan)

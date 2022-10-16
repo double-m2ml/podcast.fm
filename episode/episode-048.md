@@ -29,6 +29,7 @@
 
 # Reference
 - [JAWS DAYS 2022](https://jawsdays2022.jaws-ug.jp/)
-- [JAWS DAYS 登壇資料]()
+- [JAWS DAYS 登壇資料](https://speakerdeck.com/masatakashiwagi/jaws-days-2022-awsnomanezidosabisudeshi-xian-suruniariarutaimunajian-suo-ji-pan)
+- [JAWS DAYS 2022で登壇した感想](https://masatakashiwagi.github.io/portfolio/post/my-thoughts-on-speaking-at-jawsdays2022/)
 - [Googleのソフトウェアエンジニアリング](https://www.oreilly.co.jp/books/9784873119656/)
 - [CI/CD Metrics with GSM Framework](https://engineering.mercari.com/en/blog/entry/20211130-ci-cd-metrics-with-gsm-framework/)

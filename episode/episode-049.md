@@ -1,6 +1,6 @@
 # Episode
 - 第49回（2022/10/24）: 記事紹介 - A Systematic Approach to Reducing Technical Debt
-    - リンク:
+    - リンク: https://anchor.fm/double-m2/episodes/49----A-Systematic-Approach-to-Reducing-Technical-Debt-e1pkjdo
 
 # Agenda
 - 技術的負債を解消していく取り組み関する事例紹介

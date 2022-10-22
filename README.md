@@ -68,6 +68,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第46回（2022/09/26）: [今話題のStable Diffusionについて](./episode/episode-046.md)
 - 第47回（2022/10/03）: [8月末までのテック備忘録日記](./episode/episode-047.md)
 - 第48回（2022/10/17）: [エンジニアリングの生産性を評価する - GSMフレームワークの紹介](./episode/episode-048.md)
+- 第49回（2022/10/24）: [記事紹介 - A Systematic Approach to Reducing Technical Debt](./episode/episode-049.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

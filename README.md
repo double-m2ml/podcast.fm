@@ -69,6 +69,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第47回（2022/10/03）: [8月末までのテック備忘録日記](./episode/episode-047.md)
 - 第48回（2022/10/17）: [エンジニアリングの生産性を評価する - GSMフレームワークの紹介](./episode/episode-048.md)
 - 第49回（2022/10/24）: [記事紹介 - A Systematic Approach to Reducing Technical Debt](./episode/episode-049.md)
+- 第50回（2022/10/31）: [イベントの裏話について - 登壇と運営スタッフの経験から](./episode/episode-050.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

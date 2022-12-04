@@ -71,6 +71,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第49回（2022/10/24）: [記事紹介 - A Systematic Approach to Reducing Technical Debt](./episode/episode-049.md)
 - 第50回（2022/10/31）: [イベントの裏話について - 登壇と運営スタッフの経験から](./episode/episode-050.md)
 - 第51回（2022/11/07）: [検索システムに機械学習を活用するってどんなことするの？](./episode/episode-051.md)
+- 第52回（2022/12/05）: [たまには雑談でも - 最近の出来事など](./episode/episode-052.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

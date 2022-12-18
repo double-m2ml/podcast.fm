@@ -1,9 +1,9 @@
 # Episode
 - 第53回（2022/12/19）: Spotifyのまとめを見ながら2022年の振り返り
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/53-Spotify2022-e1sdgnh
 
 # Agenda
-- 年の瀬ということで，2022年の1年の振り返り
+- 年の瀬ということで，どんな内容を配信したかなど2022年にの振り返り
 
 # Contents
 ## Spotifyまとめ

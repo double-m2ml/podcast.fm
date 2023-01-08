@@ -1,6 +1,6 @@
 # Episode
 - 第54回（2022/01/07）: 正月の過ごし方と2023年の抱負
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/54-2023-e1t7ag8
 
 # Agenda
 - 2023年最初のPodcastの収録！

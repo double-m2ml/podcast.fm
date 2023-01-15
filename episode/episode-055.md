@@ -1,6 +1,6 @@
 # Episode
 - 第55回（2022/01/16）: FinTech領域での機械学習適用とは？
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/55-FinTech-e1tgnf8
 
 # Agenda
 - FinTechとは？機械学習はどこで活用できる？

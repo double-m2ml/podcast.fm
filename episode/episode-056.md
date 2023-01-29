@@ -1,6 +1,6 @@
 # Episode
 - 第56回（2022/01/30）: MLOps 2023年の予想 - Looking into 2023: Predictions for a New Year in MLOps
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/56-MLOps-2023---Looking-into-2023-Predictions-for-a-New-Year-in-MLOps-e1u5qpm
 
 # Agenda
 - Looking into 2023: Predictions for a New Year in MLOpsの紹介

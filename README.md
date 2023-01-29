@@ -75,6 +75,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第53回（2022/12/19）: [Spotifyのまとめを見ながら2022年の振り返り](./episode/episode-053.md)
 - 第54回（2022/01/09）: [正月の過ごし方と2023年の抱負](./episode/episode-054.md)
 - 第55回（2022/01/16）: [FinTech領域での機械学習適用とは？](./episode/episode-055.md)
+- 第56回（2022/01/30）: [MLOps 2023年の予想 - Looking into 2023: Predictions for a New Year in MLOps](./episode/episode-056.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

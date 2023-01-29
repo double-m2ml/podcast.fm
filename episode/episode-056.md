@@ -52,3 +52,4 @@
 
 # Reference
 - [Looking into 2023: Predictions for a New Year in MLOps](https://www.iguazio.com/blog/mlops-predictions-for-2023/)
+- [2022年版のエピソードノート](https://github.com/double-m2ml/podcast.fm/blob/main/episode/episode-026.md)

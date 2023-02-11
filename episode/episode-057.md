@@ -1,6 +1,6 @@
 # Episode
 - 第56回（2023/02/13）: おすすめのPythonライブラリは何ですか？
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/57-Python-e1uq7f6
 
 # Agenda
 - "Top Python libraries of 2022"という海外記事の紹介

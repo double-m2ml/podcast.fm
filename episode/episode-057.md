@@ -1,5 +1,5 @@
 # Episode
-- 第56回（2023/02/13）: おすすめのPythonライブラリは何ですか？
+- 第57回（2023/02/13）: おすすめのPythonライブラリは何ですか？
     - リンク: https://anchor.fm/double-m2/episodes/57-Python-e1uq7f6
 
 # Agenda

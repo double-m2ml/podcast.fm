@@ -1,6 +1,6 @@
 # Episode
 - 第59回（2023/03/06）: 記事紹介 - Data Science Project Quick-Start
-    - リンク: 
+    - リンク: https://anchor.fm/double-m2/episodes/59----Data-Science-Project-Quick-Start-e1vsd5t
 
 # Agenda
 - データサイエンスプロジェクトにおいて意識すべきポイントの紹介

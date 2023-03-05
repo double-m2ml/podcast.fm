@@ -18,7 +18,7 @@
     - What is the expected customer or business benefit?
         - 期待される顧客やビジネス上のメリットは何か？
     - What’s wrong with the way things are now?
-        - 今の方法だと何が問題のか？
+        - 今の方法だと何が問題なのか？
     - Why is solving this important now?
         - なぜ今、この問題を解決することが重要なのか？
 

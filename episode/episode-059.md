@@ -13,12 +13,12 @@
 3. Dig into the data early
 
 ## Understand the intent and context
-- プロジェクトの背後にある意図，**「なぜ」**から理解しようと書かれている
+- プロジェクトの背後にある意図，**「なぜ」** から理解しようと書かれている
 - 3点の大事なポイント
     - What is the expected customer or business benefit?
         - 期待される顧客やビジネス上のメリットは何か？
     - What’s wrong with the way things are now?
-        - 期待される顧客やビジネス上の利益は何か？
+        - 今の方法だと何が問題のか？
     - Why is solving this important now?
         - なぜ今、この問題を解決することが重要なのか？
 

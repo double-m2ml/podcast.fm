@@ -42,7 +42,7 @@
     - リファクタリング
     - 最適化
 - Opsカテゴリ
-    - Keyword: Adoption, enablement, manual
+    - Keyword: Adoption, Enablement, Manual
     - データサイエンティストやMLエンジニアの作業プロセスの改善
     - 自動化検討
 - エンジニアの階級による追加作業（MLOpsエンジニアに限らず）

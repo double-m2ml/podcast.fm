@@ -84,4 +84,4 @@
     - 新しいモデルを作っていく方針
 
 # Reference
-- [What An MLOps Engineer Does](https://mikiko.hashnode.dev/what-an-mlops-engineer-does#heading-engineer-sentiment-to-sht-ops-work-or-manual-sht)
+- [What An MLOps Engineer Does](https://mikiko.hashnode.dev/what-an-mlops-engineer-does)

@@ -81,7 +81,6 @@
     - ペルソナ2に近い
     - チームの定例や1on1, プロジェクトの定例はあるものの、開発する時間は確保できている
     - チーム内で完結することが多く、ビジネス側とのやり取りは少なめ
-    - 新しいモデルを作っていく方針
 
 # Reference
 - [What An MLOps Engineer Does](https://mikiko.hashnode.dev/what-an-mlops-engineer-does)

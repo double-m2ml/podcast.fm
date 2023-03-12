@@ -36,7 +36,7 @@
 - MLOpsエンジニアの役割は2つの業務カテゴリに分けられる
     - DevカテゴリとOpsカテゴリに分けられる
 - Devカテゴリ
-    - Keyword：Scale, Automation
+    - Keyword: Scale, Automation
     - デプロイのためのインフラ整備
         - それに伴うツール開発など
     - リファクタリング

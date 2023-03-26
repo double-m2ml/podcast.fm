@@ -1,6 +1,6 @@
 # Episode
 - 第61回（2023/03/27）: 記事紹介 - BIG DATA IS DEAD
-    - リンク: 
+    - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/61----BIG-DATA-IS-DEAD-e214sa5
 
 # Agenda
 - BIG DATA IS DEAD を読んで

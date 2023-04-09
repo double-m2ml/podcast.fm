@@ -81,6 +81,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第59回（2023/03/06）: [記事紹介 - Data Science Project Quick-Start](./episode/episode-059.md)
 - 第60回（2023/03/13）: [記事紹介 - What An MLOps Engineer Does](./episode/episode-060.md)
 - 第61回（2023/03/27）: [記事紹介 - BIG DATA IS DEAD](./episode/episode-061.md)
+- 第62回（2023/04/10）: [ChatGPTに関して思うこと・感じたこと](./episode/episode-062.md)
 
 # Others（質問・お便り・感想など）
 質問・お便り・感想などはメールやTwitterのDMなどから頂ければと思います．

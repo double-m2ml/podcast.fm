@@ -1,15 +1,16 @@
 # Episode
+
 - 第33回（2022/04/25）: 個人開発を最近何かしていますか？
-    - リンク: https://anchor.fm/double-m2/episodes/33-e1hje1l
+  - リンク: https://anchor.fm/double-m2/episodes/33-e1hje1l
 
 # Agenda
+
 - プライベートで何か個人開発をやっていますか？
 
 # Contents
+
 - プライベートで何か開発をやっていますか？
 - どういったことをやっている？
 - なぜやろうとしている？
 - 個人開発のメリットとは？
 - モチベーション維持のために心がけていること
-
-# Reference

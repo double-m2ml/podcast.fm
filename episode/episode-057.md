@@ -1,16 +1,19 @@
 # Episode
+
 - 第57回（2023/02/13）: おすすめのPythonライブラリは何ですか？
-    - リンク: https://anchor.fm/double-m2/episodes/57-Python-e1uq7f6
+  - リンク: https://anchor.fm/double-m2/episodes/57-Python-e1uq7f6
 
 # Agenda
+
 - "Top Python libraries of 2022"という海外記事の紹介
-    - 2015年から実施しており今回で8回目
-    - AIやデータサイエンスの領域に強く影響された選出になっている（もちろんnon-data science目的のものもある）
+  - 2015年から実施しており今回で8回目
+  - AIやデータサイエンスの領域に強く影響された選出になっている（もちろんnon-data science目的のものもある）
 - 二人の興味がある or おすすめは...本編でも気になったポイントを紹介してます！
-    - asteriam: **Mito**
-    - navi: **Diffusers**
+  - asteriam: **Mito**
+  - navi: **Diffusers**
 
 # Contents
+
 1. Ruff - a fast linter
     - Pythonでよく使われているリンターを高速化したもの（従来のpylintなどと比較して10~100倍速い）
 2. Python-benedict - a dict on steroids
@@ -39,4 +42,5 @@
     - pythonコードも生成してくれる
 
 # Reference
+
 - [Top Python libraries of 2022](https://tryolabs.com/blog/2022/12/26/top-python-libraries-2022)

@@ -85,6 +85,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第61回（2023/03/27）: [記事紹介 - BIG DATA IS DEAD](./episode/episode-061.md)
 - 第62回（2023/04/10）: [ChatGPTに関して思うこと・感じたこと](./episode/episode-062.md)
 - 第63回（2023/04/17）: [30代以降のキャリアについて雑談](./episode/episode-063.md)
+- 第64回（2023/04/24）: [記事紹介 - The Power of SuperGoals](./episode/episode-064.md)
 
 # Others（質問・お便り・感想など）
 

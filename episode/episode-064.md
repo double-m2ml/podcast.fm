@@ -1,7 +1,7 @@
 # Episode
 
 - 第64回（2023/04/24）: 記事紹介 - The Power of SuperGoals
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/64----The-Power-of-SuperGoals-e22scdt
 
 # Agenda
 

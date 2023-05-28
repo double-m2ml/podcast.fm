@@ -87,6 +87,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第63回（2023/04/17）: [30代以降のキャリアについて雑談](./episode/episode-063.md)
 - 第64回（2023/04/24）: [記事紹介 - The Power of SuperGoals](./episode/episode-064.md)
 - 第65回（2023/05/15）: [記事紹介 - MLOps Maturity Assessment（前編）](./episode/episode-065.md)
+- 第66回（2023/05/29）: [記事紹介 - MLOps Maturity Assessment（後編）](./episode/episode-066.md)
 
 # Others（質問・お便り・感想など）
 

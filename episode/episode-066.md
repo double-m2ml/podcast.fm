@@ -1,7 +1,7 @@
 # Episode
 
 - 第66回（2023/05/29）: 記事紹介 - MLOps Maturity Assessment（後編）
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/66----MLOps-Maturity-Assessment-e24pob1
 
 # Agenda
 

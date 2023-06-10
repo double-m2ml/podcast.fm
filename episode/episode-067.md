@@ -5,7 +5,7 @@
 
 # Agenda
 
-- 前回に引き続き、プロジェクトレベルでの MLOps の成熟度を測る上で参考になる MLOps Maturity Assessment に関するブログ記事を紹介しました！
+- LLM/ChatGPTに関するざっくばらんな雑談会をしました！
 
 # Contents
 

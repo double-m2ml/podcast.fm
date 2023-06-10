@@ -1,7 +1,7 @@
 # Episode
 
 - 第67回（2023/06/12）: LLM/ChatGPT使ってますか？雑談会
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/67-LLMChatGPT-e25hhsr
 
 # Agenda
 

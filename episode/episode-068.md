@@ -1,7 +1,7 @@
 # Episode
 
 - 第68回（2023/06/19）: 論文紹介 - Segment Anything
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/68----Segment-Anything-e25rk0m
 
 # Agenda
 

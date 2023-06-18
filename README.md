@@ -89,6 +89,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第65回（2023/05/15）: [記事紹介 - MLOps Maturity Assessment（前編）](./episode/episode-065.md)
 - 第66回（2023/05/29）: [記事紹介 - MLOps Maturity Assessment（後編）](./episode/episode-066.md)
 - 第67回（2023/06/12）: [LLM/ChatGPT使ってますか？雑談会](./episode/episode-067.md)
+- 第68回（2023/06/19）: [論文紹介 - Segment Anything](./episode/episode-068.md)
 
 # Others（質問・お便り・感想など）
 

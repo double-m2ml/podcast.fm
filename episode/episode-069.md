@@ -1,7 +1,7 @@
 # Episode
 
 - 第69回（2023/06/26）: Netflixのアートワーク選択ってどうやってるの？
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/69-Netflix-e265ncf
 
 # Agenda
 

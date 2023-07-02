@@ -91,7 +91,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第67回（2023/06/12）: [LLM/ChatGPT使ってますか？雑談会](./episode/episode-067.md)
 - 第68回（2023/06/19）: [論文紹介 - Segment Anything](./episode/episode-068.md)
 - 第69回（2023/06/26）: [Netflixのアートワーク選択ってどうやってるの？](./episode/episode-069.md)
-- 第70回（2023/07/02）: [入社してから3か月経ったようで、ご状況どんな感じですか？](./episode/episode-070.md)
+- 第70回（2023/07/03）: [入社してから3か月経ったようで、ご状況どんな感じですか？](./episode/episode-070.md)
 
 # Others（質問・お便り・感想など）
 

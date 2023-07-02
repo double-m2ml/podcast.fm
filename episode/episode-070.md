@@ -1,7 +1,7 @@
 # Episode
 
 - 第70回（2023/07/03）: 入社してから3か月経ったようで、ご状況どんな感じですか？
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/70-3-e26eip9
 
 # Agenda
 

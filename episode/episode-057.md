@@ -22,7 +22,7 @@
     - メモリのモニタリングで，デバッグにも便利
 4. Codon - a Python compiler using LLVM
     - Pythonの高速化のためのコンパイラで，従来の10~100倍の速度改善
-5. LanfChain - building LLM - powered apps
+5. LangChain - building LLM - powered apps
     - LLM: large language models (GPT-3, ChatGPTなど)
     - LLMを効率よく使うためのインターフェースを提供
     - プロンプト管理：入力のテキスト（プロンプト）と出力結果

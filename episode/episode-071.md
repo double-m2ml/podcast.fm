@@ -1,7 +1,7 @@
 # Episode
 
 - 第71回（2023/07/10）: 2023年も半年過ぎたので、振り返りました！
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/71-2023-e26n2c0
 
 # Agenda
 

@@ -1,7 +1,7 @@
 # Episode
 
 - 第72回（2023/08/14）: 1か月振りのリハビリ会！
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/72-1-e281001
 
 # Agenda
 

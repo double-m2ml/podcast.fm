@@ -1,7 +1,7 @@
 # Episode
 
 - 第73回（2023/09/11）: 二人の経験した機械学習関連ロールとチーム組織を語る
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/73-e294s0e
 
 # Agenda
 

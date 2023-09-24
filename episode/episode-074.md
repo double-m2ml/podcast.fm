@@ -23,6 +23,7 @@
     - 入浴剤として全身からマグネシウムを摂取できる
 
 # Reference
+
 - **マットレス**
   - [NELL](https://nell.life/)
   - [エマ・スリープ](https://emma-sleep-japan.com/)

@@ -1,7 +1,7 @@
 # Episode
 
 - 第74回（2023/09/25）: 健康について - 首肩こりや腰痛の悩みとその対策
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/74----e29mmcc
 
 # Agenda
 

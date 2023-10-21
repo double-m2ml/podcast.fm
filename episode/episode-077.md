@@ -1,7 +1,7 @@
 # Episode
 
 - 第77回（2023/10/23）: シニアレベルの先のキャリアパスとして Staff Engineer を考えてみる
-  - リンク: 
+  - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/77--Staff-Engineer-e2as46u
 
 # Agenda
 

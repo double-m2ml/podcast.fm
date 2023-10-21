@@ -98,6 +98,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第74回（2023/09/25）: [健康について - 首肩こりや腰痛の悩みとその対策](./episode/episode-074.md)
 - 第75回（2023/10/02）: [世の中のAI活用に関する取り組み紹介](./episode/episode-075.md)
 - 第76回（2023/10/10）: [記事紹介 - ChatGPT can now see, hear, and speak](./episode/episode-076.md)
+- 第77回（2023/10/23）: [シニアレベルの先のキャリアパスとして Staff Engineer を考えてみる](./episode/episode-077.md)
 
 # Others（質問・お便り・感想など）
 

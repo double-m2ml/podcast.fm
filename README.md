@@ -99,6 +99,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第75回（2023/10/02）: [世の中のAI活用に関する取り組み紹介](./episode/episode-075.md)
 - 第76回（2023/10/10）: [記事紹介 - ChatGPT can now see, hear, and speak](./episode/episode-076.md)
 - 第77回（2023/10/23）: [シニアレベルの先のキャリアパスとして Staff Engineer を考えてみる](./episode/episode-077.md)
+- 第78回（2023/10/30）: [データプロダクトとは何か](./episode/episode-078.md)
 
 # Others（質問・お便り・感想など）
 

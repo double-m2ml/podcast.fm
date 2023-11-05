@@ -1,6 +1,6 @@
 # Episode
 
-- 第78回（2023/11/06）: AI/MLの情報収集普段どうしてますか？
+- 第79回（2023/11/06）: AI/MLの情報収集普段どうしてますか？
   - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/79-AIML-e2bfk31
 
 # Agenda

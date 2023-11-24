@@ -101,6 +101,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第77回（2023/10/23）: [シニアレベルの先のキャリアパスとして Staff Engineer を考えてみる](./episode/episode-077.md)
 - 第78回（2023/10/30）: [データプロダクトとは何か](./episode/episode-078.md)
 - 第79回（2023/11/06）: [AI/MLの情報収集普段どうしてますか？](./episode/episode-079.md)
+- 第79回（2023/11/27）: [勉強会登壇のモチベーションってどこから来ます？](./episode/episode-080.md)
 
 # Others（質問・お便り・感想など）
 

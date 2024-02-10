@@ -107,6 +107,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第83回（2024/01/15）: [データ分析失敗事例集から学ぶデータ分析プロジェクトで失敗しないためには](./episode/episode-083.md)
 - 第84回（2024/01/29）: [「世界一流エンジニアの思考法」とはどういったものか？](./episode/episode-084.md)
 - 第85回（2024/02/05）: [2024年の AI 予想 - The New AI Landscape: 10 Predictions in 2024](./episode/episode-085.md)
+- 第86回（2024/02/12）: [最近の出来事について緩く話す雑談回](./episode/episode-086.md)
 
 # Others（質問・お便り・感想など）
 

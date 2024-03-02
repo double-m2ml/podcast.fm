@@ -109,6 +109,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第85回（2024/02/05）: [2024年の AI 予想 - The New AI Landscape: 10 Predictions in 2024](./episode/episode-085.md)
 - 第86回（2024/02/12）: [最近の出来事について緩く話す雑談回](./episode/episode-086.md)
 - 第87回（2024/02/19）: [推薦システムにおける Data-Centric な取り組みを調査した論文紹介](./episode/episode-087.md)
+- 第88回（2024/03/04）: [書籍紹介 - 人生が整うマウンティング大全](./episode/episode-088.md)
 
 # Others（質問・お便り・感想など）
 

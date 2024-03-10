@@ -24,5 +24,5 @@
 
 # References
 
-- [The Act Texts](https://artificialintelligenceact.eu/the-act/)
+- [EU AI Act - The Act Texts](https://artificialintelligenceact.eu/the-act/)
 - [欧州AI規則案の概要](https://xtrend.nikkei.com/atcl/contents/skillup/00009/00151/)

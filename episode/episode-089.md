@@ -23,10 +23,5 @@
 
 # References
 
-<<<<<<< Updated upstream
-- [EU AI Act - The Act Texts](https://artificialintelligenceact.eu/the-act/)
-- [欧州AI規則案の概要](https://xtrend.nikkei.com/atcl/contents/skillup/00009/00151/)
-=======
 - [The Act Texts](https://artificialintelligenceact.eu/the-act/)
 - [欧州AI規則案の概要](https://www.i-ise.com/jp/information/report/2021/202106.pdf)
->>>>>>> Stashed changes

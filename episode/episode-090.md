@@ -1,6 +1,6 @@
 # Episode
 
-- 第90回（2024/03/18）: 育休に入る前の育児一問一答
+- 第90回（2024/03/18）: これから育休に入る前に育児の一問一答
   - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/90-11-e2h56kv
 
 # Agenda

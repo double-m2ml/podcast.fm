@@ -1,6 +1,6 @@
 # Episode
 
-- 第88回（2024/03/11）: EU AI Act の紹介 - リスクのあるAIシステムとは？
+- 第89回（2024/03/11）: EU AI Act の紹介 - リスクのあるAIシステムとは？
   - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/89-AI---AI-e2gs2d7
 
 # Agenda

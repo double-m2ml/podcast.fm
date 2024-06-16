@@ -112,6 +112,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第88回（2024/03/04）: [書籍紹介 - 人生が整うマウンティング大全](./episode/episode-088.md)
 - 第89回（2024/03/11）: [EU AI Act の紹介 - リスクのあるAIシステムとは？](./episode/episode-089.md)
 - 第90回（2024/03/18）: [これから育休に入る前に育児の一問一答](./episode/episode-090.md)
+- 第91回（2024/06/17）: [育児休業を経験しての心境](./episode/episode-091.md)
 
 # Others（質問・お便り・感想など）
 

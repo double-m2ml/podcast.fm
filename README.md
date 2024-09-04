@@ -114,6 +114,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第90回（2024/03/18）: [これから育休に入る前に育児の一問一答](./episode/episode-090.md)
 - 第91回（2024/06/17）: [育児休業を経験しての心境](./episode/episode-091.md)
 - 第92回（2024/06/24）: [WWDC2024 で発表された Apple Intelligence の凄さ](./episode/episode-092.md)
+- 第93回（2024/09/04）: [ドメイン×ML 雑談会](./episode/episode-093.md)
 
 # Others（質問・お便り・感想など）
 

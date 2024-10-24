@@ -1,6 +1,6 @@
 # Episode
 
-- 第94回（2024/10/25）: 『事例でわかるMLOps』の執筆に関するあれこれ
+- 第95回（2024/10/25）: 『事例でわかるMLOps』の執筆に関するあれこれ
   - リンク: https://podcasters.spotify.com/pod/show/double-m2/episodes/95-MLOps-e2q1hj9
 
 # Agenda

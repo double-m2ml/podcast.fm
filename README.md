@@ -117,6 +117,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第93回（2024/09/04）: [ドメイン×ML 雑談会](./episode/episode-093.md)
 - 第94回（2024/09/18）: [データ×ML 雑談会](./episode/episode-094.md)
 - 第95回（2024/10/25）: [『事例でわかるMLOps』の執筆に関するあれこれ](./episode/episode-095.md)
+- 第96回（2024/11/13）: [テックリードマネージャーとはどんな役割](./episode/episode-096.md)
 
 # Others（質問・お便り・感想など）
 

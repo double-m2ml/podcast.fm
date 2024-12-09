@@ -100,7 +100,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第76回（2023/10/10）: [記事紹介 - ChatGPT can now see, hear, and speak](./episode/episode-076.md)
 - 第77回（2023/10/23）: [シニアレベルの先のキャリアパスとして Staff Engineer を考えてみる](./episode/episode-077.md)
 - 第78回（2023/10/30）: [データプロダクトとは何か](./episode/episode-078.md)
-- 第79回（2023/11/06）: [AI/MLの情報収集普段どうしてますか？](./episode/episode-079.md)
+- 第79回（2023/11/06）: [AI/ML の情報収集普段どうしてますか？](./episode/episode-079.md)
 - 第80回（2023/11/27）: [勉強会登壇のモチベーションってどこから来ます？](./episode/episode-080.md)
 - 第81回（2023/12/11）: [クォーターライフ・クライシスってご存知ですか？](./episode/episode-081.md)
 - 第82回（2024/01/08）: [2023年の振り返り&2024年の抱負](./episode/episode-082.md)
@@ -119,6 +119,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第95回（2024/10/25）: [『事例でわかるMLOps』の執筆に関するあれこれ](./episode/episode-095.md)
 - 第96回（2024/11/13）: [テックリードマネージャーとはどんな役割](./episode/episode-096.md)
 - 第97回（2024/11/27）: [英語学習におすすめのサービス](./episode/episode-097.md)
+- 第98回（2024/12/11）: [ML エンジニアが語る将来のキャリアについて](./episode/episode-098.md)
 
 # Others（質問・お便り・感想など）
 

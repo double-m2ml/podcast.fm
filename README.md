@@ -120,6 +120,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第96回（2024/11/13）: [テックリードマネージャーとはどんな役割](./episode/episode-096.md)
 - 第97回（2024/11/27）: [英語学習におすすめのサービス](./episode/episode-097.md)
 - 第98回（2024/12/11）: [ML エンジニアが語る将来のキャリアについて](./episode/episode-098.md)
+- 第99回（2024/12/31）: [2024年の振り返り！](./episode/episode-099.md)
 
 # Others（質問・お便り・感想など）
 

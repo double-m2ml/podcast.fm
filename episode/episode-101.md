@@ -12,3 +12,7 @@
 - 過去の検索とは？
 - LLM の登場による検索とは？
 - 将来的にどんな検索になっていくか？
+
+# References
+
+- [Musings About the Future of Search: A Return to the Past?](https://arxiv.org/abs/2412.18956)

@@ -125,6 +125,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第101回（2025/02/05）: [検索の未来は過去への回帰？](./episode/episode-101.md)
 - 第102回（2025/02/26）: [AI Agent と LLM に関するよもやま話](./episode/episode-102.md)
 - 第103回（2025/03/12）: [コードレビューで意識していること](./episode/episode-103.md)
+- 第104回（2025/04/09）: [Nintendo Switch 2の発表とゲームについて雑談](./episode/episode-104.md)
 
 # Others（質問・お便り・感想など）
 

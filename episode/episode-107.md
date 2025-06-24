@@ -1,6 +1,6 @@
 # Episode
 
-- 第107回（2025/06/04）: DS と MLE のコミュニケーションについて
+- 第107回（2025/06/04）: DS と MLE のコミュニケーション
   - リンク: https://creators.spotify.com/pod/show/double-m2/episodes/107-DSMLE-e33mehk
 
 # Agenda

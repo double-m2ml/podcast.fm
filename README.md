@@ -4,17 +4,9 @@
 
 # [Double-M2.fm](https://anchor.fm/double-m2)
 
-Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @asteriam_fp の2人の機械学習エンジニアがお届けするポッドキャストです．
+Double-M2.fmは偶然にも名前（first name）が同じ [@navitacion](https://x.com/navitacion) と [@asteriam_fp](https://x.com/asteriam_fp) の2人の機械学習エンジニアがお届けするポッドキャストです．
 
 - 毎週気になる話題 - テクノロジー・ビジネス・キャリアなど，2人が興味のあるトピックについてお話しします．
-
-- 簡単に自己紹介
-  - [@navitacion](https://twitter.com/navitacion):
-  新卒でWeb広告運用やアクセス解析を主としたデジタルマーケティング業務を経験．その後，AIスタートアップにて，機械学習などのモデル実装やクライアントへの技術提案など上流から下流にかけて幅広く担当．前職では，FinTechのメガベンチャーにて与信モデルや不正領域でのMLモデルの改善やMLプロジェクトの推進，さらにはMLOps運用を経験．2024年10月にFinTechスタートアップに転職をし，現在に至る．
-
-  - [@asteriam_fp](https://twitter.com/asteriam_fp):
-  新卒でデジタルマーケティング基盤の導入を経験した後，AIベンチャーにて，製造業向けに時系列異常検知・外観検査・作業動作解析など複数プロジェクト，また自社プロダクトのフレームワーク開発に従事した後，前職では，toC向けアプリを開発している会社にて，レコメンドシステム・検索システムの導入，MLOpsの推進を担当後，1人目の機械学習エンジニアとして，2023年4月に3回目の転職をし，現在に至る．
-
 - 記事
   - [Podcastによる配信のキッカケとその方法](https://masatakashiwagi.github.io/portfolio/post/podcast-broadcast-method/)
 - 参考
@@ -130,6 +122,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ @navitacion と @aste
 - 第106回（2025/05/21）: [因果推論に入門してみた](./episode/episode-106.md)
 - 第107回（2025/06/04）: [DS と MLE のコミュニケーション](./episode/episode-107.md)
 - 第108回（2025/06/25）: [データ人材とビジネスサイドのコミュニケーション](./episode/episode-108.md)
+- 第109回（2025/10/08）: [久しぶりのポッドキャスト](./episode/episode-109.md)
 
 # Others（質問・お便り・感想など）
 

@@ -1,7 +1,7 @@
 # Episode
 
 - 第110回（2025/10/22）: 採用面接で何を見ているか
-  - リンク:
+  - リンク: https://open.spotify.com/episode/2duy526CtjuhuQEe2RezAZ?si=2XKCIrMYSpewuecGjfTmuQ
 
 # Agenda
 
@@ -12,3 +12,4 @@
 - 採用面接 / 書類選考
 - どんなことを意識している見ているか
 - 面接時に気をつけていること
+

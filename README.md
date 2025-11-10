@@ -124,7 +124,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ [@navitacion](https:/
 - 第108回（2025/06/25）: [データ人材とビジネスサイドのコミュニケーション](./episode/episode-108.md)
 - 第109回（2025/10/08）: [久しぶりのポッドキャスト](./episode/episode-109.md)
 - 第110回（2025/10/22）: [採用面接で何を見ているか](./episode/episode-110.md)
-- 第111回（2025/11/12）: [デスク周りの紹介](./episode/episode-111.md)
+- 第111回（2025/11/12）: [デスク周りのガジェット紹介](./episode/episode-111.md)
 
 # Others（質問・お便り・感想など）
 

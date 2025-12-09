@@ -1,7 +1,7 @@
 # Episode
 
 - 第111回（2025/11/12）: デスク周りのガジェット紹介
-  - リンク:
+  - リンク: https://open.spotify.com/episode/0jlWSUHZW6ht4WKXyn8BLK?si=G_Vb4g_KSrmtUFXaThCdCQ
 
 # Agenda
 

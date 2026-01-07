@@ -1,7 +1,7 @@
 # Episode
 
 - 第113回（2026/01/07）: 2025年の振り返りと2026年の抱負
-  - リンク:
+  - リンク: https://open.spotify.com/episode/04me5J1KcIIYPQ1GFFEB5l?si=z3oiJ2-bThO8vALj_QVlGA
 
 # Agenda
 
@@ -14,3 +14,4 @@
 - 夏頃に転職した
 - 子供を持つ親同士でプライベートの繋がりを充実させたい
 - 健康維持＆健康第一に過ごす
+

@@ -1,7 +1,7 @@
 # Episode
 
 - 第114回（2026/01/21）: 最近話題の FDE を題材にキャリアを考える
-  - リンク:
+  - リンク: https://open.spotify.com/episode/78IQ7OyifW9PW3FVOu9iJQ?si=EBKkBQU3SeODyR1lhFe35w
 
 # Agenda
 

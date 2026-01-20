@@ -127,6 +127,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ [@navitacion](https:/
 - 第111回（2025/11/12）: [デスク周りのガジェット紹介](./episode/episode-111.md)
 - 第112回（2025/12/10）: [自動運転のどこに機械学習が使われているか](./episode/episode-112.md)
 - 第113回（2026/01/07）: [2025年の振り返りと2026年の抱負](./episode/episode-113.md)
+- 第114回（2026/01/21）: [最近話題の FDE を題材にキャリアを考える](./episode/episode-114.md)
 
 # Others（質問・お便り・感想など）
 

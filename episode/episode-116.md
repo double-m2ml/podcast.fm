@@ -1,6 +1,6 @@
 # Episode
 
-- 第116回（2026/03/25）: AI スロップは悩ましい問題？
+- 第116回（2026/03/27）: AI スロップは悩ましい問題？
   - リンク: https://open.spotify.com/episode/7pqfkO0ytt5jVBhmHCGQZs?si=kxD9NYQDSiWYPycg3dfEYw
 
 # Agenda

@@ -129,6 +129,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ [@navitacion](https:/
 - 第113回（2026/01/07）: [2025年の振り返りと2026年の抱負](./episode/episode-113.md)
 - 第114回（2026/01/21）: [最近話題の FDE を題材にキャリアを考える](./episode/episode-114.md)
 - 第115回（2026/03/11）: [子育てでの嬉しいこと/大変なこと](./episode/episode-115.md)
+- 第116回（2026/03/27）: [AI スロップは悩ましい問題？](./episode/episode-116.md)
 
 # Others（質問・お便り・感想など）
 

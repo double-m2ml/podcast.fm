@@ -1,7 +1,7 @@
 # Episode
 
 - 第117回（2026/04/29）: 普段コーディングエージェントをどう使ってますか？
-  - リンク:
+  - リンク: https://open.spotify.com/episode/5pfSelVDDn3hajWsrjIquW?si=i1pyIPgjSRC9yOZHJSeOnQ
 
 # Agenda
 

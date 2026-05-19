@@ -1,7 +1,7 @@
 # Episode
 
 - 第118回（2026/05/13）: GPT-5.5のアップデート情報を眺めてみる
-  - リンク:
+  - リンク: https://open.spotify.com/episode/6Yq4l5TALw77JyEpX9w5Ew?si=l8w0fESpSOSLwGPRiNSGLw
 
 # Agenda
 

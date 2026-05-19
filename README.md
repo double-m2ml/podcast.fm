@@ -132,6 +132,7 @@ Double-M2.fmは偶然にも名前（first name）が同じ [@navitacion](https:/
 - 第116回（2026/03/27）: [AI スロップは悩ましい問題？](./episode/episode-116.md)
 - 第117回（2026/04/29）: [普段コーディングエージェントをどう使ってますか？](./episode/episode-117.md)
 - 第118回（2026/05/13）: [GPT-5.5のアップデート情報を眺めてみる](./episode/episode-118.md)
+- 第119回（2026/05/20）: [コードを書かない僕らは何者になるのか](./episode/episode-119.md)
 
 # Others（質問・お便り・感想など）
 

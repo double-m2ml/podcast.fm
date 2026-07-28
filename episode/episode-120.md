@@ -1,7 +1,7 @@
 # Episode
 
 - 第120回（2026/07/08）: 生成 AI の活用による効率化はビジネスインパクトに繋がっているのか？
-  - リンク:
+  - リンク: https://open.spotify.com/episode/5DjBAJZJE66MIpIzK6cIPY?si=UKpmqKuwT5abGZ2jAw4qGA
 
 # Agenda
 

@@ -15,3 +15,5 @@
 # References
 
 - [ヘルスケア領域におけるAIセーフティ評価観点ガイドの公開](https://aisi.go.jp/output/output_information/260402/)
+- [第64回 MLOps/LLMOps/AgentOps 勉強会](https://mlops.connpass.com/event/391129/)
+  - [勉強会 - YouTube](https://www.youtube.com/live/jE8Fcs1seBI?si=TsobpVj1ZJpfrh_Y)
